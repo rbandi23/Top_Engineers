@@ -1,0 +1,5194 @@
+{
+  "_metadata": {
+    "raw_file": "/Users/rishibandi/Downloads/posthog_impact/data/raw/prs_20260227T021623.json",
+    "computed_at": "2026-02-27T03:55:06.552089+00:00",
+    "pr_count": 5044,
+    "engineer_count": 144
+  },
+  "scores": [
+    {
+      "login": "rafaeelaudibert",
+      "final_impact": 1543.95,
+      "total_shipping": 888.42,
+      "total_reviews": 1367.53,
+      "base_impact": 1056.11,
+      "core_touch_ratio": 0.672,
+      "core_multiplier": 1.202,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 162,
+      "review_count": 305,
+      "top_prs": [
+        {
+          "number": 48362,
+          "title": "chore: migrate formatting from prettier to oxfmt",
+          "url": "https://github.com/PostHog/posthog/pull/48362",
+          "pr_shipping": 12.91,
+          "complexity": 12.09,
+          "discussion": 0.81
+        },
+        {
+          "number": 45646,
+          "title": "feat: Add new \"Quick start\" section",
+          "url": "https://github.com/PostHog/posthog/pull/45646",
+          "pr_shipping": 12.39,
+          "complexity": 11.46,
+          "discussion": 0.93
+        },
+        {
+          "number": 46583,
+          "title": "refactor: Simplify MCP folder structure and remove publish steps",
+          "url": "https://github.com/PostHog/posthog/pull/46583",
+          "pr_shipping": 11.62,
+          "complexity": 11.04,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "pauldambra",
+      "final_impact": 1359.36,
+      "total_shipping": 907.38,
+      "total_reviews": 823.86,
+      "base_impact": 878.15,
+      "core_touch_ratio": 0.908,
+      "core_multiplier": 1.272,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 199,
+      "review_count": 199,
+      "top_prs": [
+        {
+          "number": 43017,
+          "title": "revert: \"fix(devex): remove important: true in tailwind\"",
+          "url": "https://github.com/PostHog/posthog/pull/43017",
+          "pr_shipping": 11.97,
+          "complexity": 11.34,
+          "discussion": 0.62
+        },
+        {
+          "number": 43028,
+          "title": "feat: export replay data for local testing",
+          "url": "https://github.com/PostHog/posthog/pull/43028",
+          "pr_shipping": 9.05,
+          "complexity": 8.16,
+          "discussion": 0.88
+        },
+        {
+          "number": 42897,
+          "title": "chore: add storybook scenes for many player layouts",
+          "url": "https://github.com/PostHog/posthog/pull/42897",
+          "pr_shipping": 8.88,
+          "complexity": 8.09,
+          "discussion": 0.79
+        }
+      ]
+    },
+    {
+      "login": "adboio",
+      "final_impact": 1037.35,
+      "total_shipping": 776.22,
+      "total_reviews": 450.16,
+      "base_impact": 662.1,
+      "core_touch_ratio": 0.959,
+      "core_multiplier": 1.288,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 160,
+      "review_count": 99,
+      "top_prs": [
+        {
+          "number": 46347,
+          "title": "feat(product tours): rework the edit page",
+          "url": "https://github.com/PostHog/posthog/pull/46347",
+          "pr_shipping": 8.93,
+          "complexity": 8.4,
+          "discussion": 0.54
+        },
+        {
+          "number": 43141,
+          "title": "fix(product tours): add PT to remote config",
+          "url": "https://github.com/PostHog/posthog/pull/43141",
+          "pr_shipping": 8.53,
+          "complexity": 7.91,
+          "discussion": 0.62
+        },
+        {
+          "number": 45644,
+          "title": "feat(product tours): revamp toolbar to skeleton-only",
+          "url": "https://github.com/PostHog/posthog/pull/45644",
+          "pr_shipping": 8.23,
+          "complexity": 7.69,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "andrewm4894",
+      "final_impact": 952.76,
+      "total_shipping": 753.88,
+      "total_reviews": 383.97,
+      "base_impact": 624.41,
+      "core_touch_ratio": 0.905,
+      "core_multiplier": 1.272,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 191,
+      "review_count": 107,
+      "top_prs": [
+        {
+          "number": 43489,
+          "title": "feat(llma): (4/4) Add Clusters tab UI with scatter plot visualization",
+          "url": "https://github.com/PostHog/posthog/pull/43489",
+          "pr_shipping": 9.42,
+          "complexity": 8.52,
+          "discussion": 0.9
+        },
+        {
+          "number": 43488,
+          "title": "feat(llma): (3/4) Add HDBSCAN clustering workflow with LangGraph labeling agent",
+          "url": "https://github.com/PostHog/posthog/pull/43488",
+          "pr_shipping": 9.01,
+          "complexity": 8.27,
+          "discussion": 0.75
+        },
+        {
+          "number": 48278,
+          "title": "feat(llma): (3/3) add sentiment UI to traces table and trace detail view",
+          "url": "https://github.com/PostHog/posthog/pull/48278",
+          "pr_shipping": 8.97,
+          "complexity": 8.12,
+          "discussion": 0.85
+        }
+      ]
+    },
+    {
+      "login": "webjunkie",
+      "final_impact": 781.96,
+      "total_shipping": 591.56,
+      "total_reviews": 630.61,
+      "base_impact": 605.23,
+      "core_touch_ratio": 0.306,
+      "core_multiplier": 1.092,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 131,
+      "review_count": 168,
+      "top_prs": [
+        {
+          "number": 42229,
+          "title": "feat(types): generate TypeScript types from Django serializers",
+          "url": "https://github.com/PostHog/posthog/pull/42229",
+          "pr_shipping": 11.95,
+          "complexity": 11.01,
+          "discussion": 0.94
+        },
+        {
+          "number": 45889,
+          "title": "chore(deps): upgrade orval to 8.0.3",
+          "url": "https://github.com/PostHog/posthog/pull/45889",
+          "pr_shipping": 11.31,
+          "complexity": 10.59,
+          "discussion": 0.72
+        },
+        {
+          "number": 45896,
+          "title": "feat(openapi): generate code for all product endpoints",
+          "url": "https://github.com/PostHog/posthog/pull/45896",
+          "pr_shipping": 10.83,
+          "complexity": 10.17,
+          "discussion": 0.66
+        }
+      ]
+    },
+    {
+      "login": "eli-r-ph",
+      "final_impact": 739.09,
+      "total_shipping": 452.98,
+      "total_reviews": 496.78,
+      "base_impact": 468.31,
+      "core_touch_ratio": 0.991,
+      "core_multiplier": 1.297,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 100,
+      "review_count": 97,
+      "top_prs": [
+        {
+          "number": 43985,
+          "title": "feat(capture): implement GlobalRateLimiter PoC",
+          "url": "https://github.com/PostHog/posthog/pull/43985",
+          "pr_shipping": 8.6,
+          "complexity": 7.79,
+          "discussion": 0.81
+        },
+        {
+          "number": 46120,
+          "title": "feat(deduplicator): refactor partition-store rebalance handling and coordinator state tracking",
+          "url": "https://github.com/PostHog/posthog/pull/46120",
+          "pr_shipping": 8.22,
+          "complexity": 8.22,
+          "discussion": 0.0
+        },
+        {
+          "number": 48016,
+          "title": "feat(rust): new Rust app lifecycle management library to replace common/health",
+          "url": "https://github.com/PostHog/posthog/pull/48016",
+          "pr_shipping": 7.86,
+          "complexity": 7.27,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "haacked",
+      "final_impact": 721.34,
+      "total_shipping": 496.48,
+      "total_reviews": 418.24,
+      "base_impact": 469.1,
+      "core_touch_ratio": 0.88,
+      "core_multiplier": 1.264,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 101,
+      "review_count": 91,
+      "top_prs": [
+        {
+          "number": 43334,
+          "title": "chore(flags): Read flag data from hypercache instead of read-through cache",
+          "url": "https://github.com/PostHog/posthog/pull/43334",
+          "pr_shipping": 8.34,
+          "complexity": 7.57,
+          "discussion": 0.77
+        },
+        {
+          "number": 44483,
+          "title": "chore(flags): Read team data from HyperCache instead of legacy Redis cache",
+          "url": "https://github.com/PostHog/posthog/pull/44483",
+          "pr_shipping": 8.23,
+          "complexity": 7.46,
+          "discussion": 0.77
+        },
+        {
+          "number": 43946,
+          "title": "chore: Add stranded migration detection and sync tools for concurrent development",
+          "url": "https://github.com/PostHog/posthog/pull/43946",
+          "pr_shipping": 7.83,
+          "complexity": 6.57,
+          "discussion": 1.26
+        }
+      ]
+    },
+    {
+      "login": "jose-sequeira",
+      "final_impact": 720.79,
+      "total_shipping": 513.92,
+      "total_reviews": 457.49,
+      "base_impact": 494.17,
+      "core_touch_ratio": 0.663,
+      "core_multiplier": 1.199,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 102,
+      "review_count": 90,
+      "top_prs": [
+        {
+          "number": 46988,
+          "title": "feat: Add clikchouse events deduplicator",
+          "url": "https://github.com/PostHog/posthog/pull/46988",
+          "pr_shipping": 9.31,
+          "complexity": 8.73,
+          "discussion": 0.58
+        },
+        {
+          "number": 48562,
+          "title": "feat: Kafka Assigner PoC",
+          "url": "https://github.com/PostHog/posthog/pull/48562",
+          "pr_shipping": 9.06,
+          "complexity": 8.85,
+          "discussion": 0.21
+        },
+        {
+          "number": 48229,
+          "title": "feat: PersonHog-Coordination PoC",
+          "url": "https://github.com/PostHog/posthog/pull/48229",
+          "pr_shipping": 8.65,
+          "complexity": 8.03,
+          "discussion": 0.62
+        }
+      ]
+    },
+    {
+      "login": "thmsobrmlr",
+      "final_impact": 695.72,
+      "total_shipping": 361.94,
+      "total_reviews": 627.21,
+      "base_impact": 454.79,
+      "core_touch_ratio": 0.858,
+      "core_multiplier": 1.257,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 83,
+      "review_count": 138,
+      "top_prs": [
+        {
+          "number": 43889,
+          "title": "refactor(funnels): more non-udf cleanup",
+          "url": "https://github.com/PostHog/posthog/pull/43889",
+          "pr_shipping": 9.0,
+          "complexity": 8.47,
+          "discussion": 0.54
+        },
+        {
+          "number": 42194,
+          "title": "test(snapshots): remove version suffix from funnel UDFs",
+          "url": "https://github.com/PostHog/posthog/pull/42194",
+          "pr_shipping": 8.57,
+          "complexity": 8.24,
+          "discussion": 0.33
+        },
+        {
+          "number": 41633,
+          "title": "feat(funnels): allow data warehouse nodes as funnel events",
+          "url": "https://github.com/PostHog/posthog/pull/41633",
+          "pr_shipping": 7.73,
+          "complexity": 7.19,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "sakce",
+      "final_impact": 686.99,
+      "total_shipping": 464.15,
+      "total_reviews": 390.07,
+      "base_impact": 438.23,
+      "core_touch_ratio": 0.962,
+      "core_multiplier": 1.288,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 102,
+      "review_count": 93,
+      "top_prs": [
+        {
+          "number": 43656,
+          "title": "chore: refactor endpoints usage tab",
+          "url": "https://github.com/PostHog/posthog/pull/43656",
+          "pr_shipping": 9.73,
+          "complexity": 8.79,
+          "discussion": 0.94
+        },
+        {
+          "number": 44902,
+          "title": "feat(endpoints): add support for materializing endpoints with variables",
+          "url": "https://github.com/PostHog/posthog/pull/44902",
+          "pr_shipping": 8.88,
+          "complexity": 7.74,
+          "discussion": 1.14
+        },
+        {
+          "number": 44198,
+          "title": "feat: add project secret api key API & authenticator",
+          "url": "https://github.com/PostHog/posthog/pull/44198",
+          "pr_shipping": 8.53,
+          "complexity": 7.45,
+          "discussion": 1.08
+        }
+      ]
+    },
+    {
+      "login": "joshsny",
+      "final_impact": 674.89,
+      "total_shipping": 489.45,
+      "total_reviews": 494.57,
+      "base_impact": 491.25,
+      "core_touch_ratio": 0.483,
+      "core_multiplier": 1.145,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 99,
+      "review_count": 106,
+      "top_prs": [
+        {
+          "number": 42332,
+          "title": "chore(array): cleanup of api and frontend",
+          "url": "https://github.com/PostHog/posthog/pull/42332",
+          "pr_shipping": 10.3,
+          "complexity": 9.61,
+          "discussion": 0.69
+        },
+        {
+          "number": 43928,
+          "title": "chore(mcp): move mcp server to services folder",
+          "url": "https://github.com/PostHog/posthog/pull/43928",
+          "pr_shipping": 9.39,
+          "complexity": 9.18,
+          "discussion": 0.21
+        },
+        {
+          "number": 42488,
+          "title": "feat(array): split out snapshot creation from task processing",
+          "url": "https://github.com/PostHog/posthog/pull/42488",
+          "pr_shipping": 9.11,
+          "complexity": 8.36,
+          "discussion": 0.75
+        }
+      ]
+    },
+    {
+      "login": "adamleithp",
+      "final_impact": 653.41,
+      "total_shipping": 454.13,
+      "total_reviews": 372.39,
+      "base_impact": 425.52,
+      "core_touch_ratio": 0.932,
+      "core_multiplier": 1.28,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 88,
+      "review_count": 103,
+      "top_prs": [
+        {
+          "number": 48406,
+          "title": "feat(ux): sidepanel => context panel",
+          "url": "https://github.com/PostHog/posthog/pull/48406",
+          "pr_shipping": 11.93,
+          "complexity": 11.08,
+          "discussion": 0.85
+        },
+        {
+          "number": 42343,
+          "title": "fix(devex): remove important: true in tailwind",
+          "url": "https://github.com/PostHog/posthog/pull/42343",
+          "pr_shipping": 11.76,
+          "complexity": 11.34,
+          "discussion": 0.42
+        },
+        {
+          "number": 44880,
+          "title": "feat(ux): design update",
+          "url": "https://github.com/PostHog/posthog/pull/44880",
+          "pr_shipping": 11.76,
+          "complexity": 11.02,
+          "discussion": 0.75
+        }
+      ]
+    },
+    {
+      "login": "jonmcwest",
+      "final_impact": 642.18,
+      "total_shipping": 547.79,
+      "total_reviews": 180.97,
+      "base_impact": 419.4,
+      "core_touch_ratio": 0.98,
+      "core_multiplier": 1.294,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 120,
+      "review_count": 45,
+      "top_prs": [
+        {
+          "number": 47773,
+          "title": "refactor(logs): decouple data fetching and other state from logs scene to enable log viewer portability",
+          "url": "https://github.com/PostHog/posthog/pull/47773",
+          "pr_shipping": 7.95,
+          "complexity": 7.41,
+          "discussion": 0.54
+        },
+        {
+          "number": 43312,
+          "title": "feat(logs): add custom attribute column functionality",
+          "url": "https://github.com/PostHog/posthog/pull/43312",
+          "pr_shipping": 7.67,
+          "complexity": 6.86,
+          "discussion": 0.81
+        },
+        {
+          "number": 42395,
+          "title": "feat(logs): add virtualised logs list",
+          "url": "https://github.com/PostHog/posthog/pull/42395",
+          "pr_shipping": 7.54,
+          "complexity": 6.73,
+          "discussion": 0.81
+        }
+      ]
+    },
+    {
+      "login": "skoob13",
+      "final_impact": 616.98,
+      "total_shipping": 384.1,
+      "total_reviews": 453.43,
+      "base_impact": 408.36,
+      "core_touch_ratio": 0.806,
+      "core_multiplier": 1.242,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 76,
+      "review_count": 88,
+      "top_prs": [
+        {
+          "number": 43932,
+          "title": "chore(phai): cleanup the modes feature flag",
+          "url": "https://github.com/PostHog/posthog/pull/43932",
+          "pr_shipping": 10.71,
+          "complexity": 10.08,
+          "discussion": 0.62
+        },
+        {
+          "number": 42403,
+          "title": "feat(ph-ai): agent mode selector",
+          "url": "https://github.com/PostHog/posthog/pull/42403",
+          "pr_shipping": 9.67,
+          "complexity": 8.98,
+          "discussion": 0.69
+        },
+        {
+          "number": 44940,
+          "title": "feat(phai): list_data tool",
+          "url": "https://github.com/PostHog/posthog/pull/44940",
+          "pr_shipping": 9.54,
+          "complexity": 8.95,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "Radu-Raicea",
+      "final_impact": 604.55,
+      "total_shipping": 208.25,
+      "total_reviews": 742.75,
+      "base_impact": 395.32,
+      "core_touch_ratio": 0.974,
+      "core_multiplier": 1.292,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 42,
+      "review_count": 182,
+      "top_prs": [
+        {
+          "number": 45760,
+          "title": "feat(llma): split llm analytics logic",
+          "url": "https://github.com/PostHog/posthog/pull/45760",
+          "pr_shipping": 8.6,
+          "complexity": 7.85,
+          "discussion": 0.75
+        },
+        {
+          "number": 47056,
+          "title": "feat(llma): add access control",
+          "url": "https://github.com/PostHog/posthog/pull/47056",
+          "pr_shipping": 8.39,
+          "complexity": 7.85,
+          "discussion": 0.54
+        },
+        {
+          "number": 43069,
+          "title": "feat(llma): add prompt management",
+          "url": "https://github.com/PostHog/posthog/pull/43069",
+          "pr_shipping": 8.37,
+          "complexity": 7.55,
+          "discussion": 0.81
+        }
+      ]
+    },
+    {
+      "login": "lricoy",
+      "final_impact": 598.52,
+      "total_shipping": 234.82,
+      "total_reviews": 649.84,
+      "base_impact": 380.07,
+      "core_touch_ratio": 0.981,
+      "core_multiplier": 1.294,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 53,
+      "review_count": 139,
+      "top_prs": [
+        {
+          "number": 45402,
+          "title": "chore(web-analytics): remove v1 pre-aggregated tables ",
+          "url": "https://github.com/PostHog/posthog/pull/45402",
+          "pr_shipping": 8.55,
+          "complexity": 7.8,
+          "discussion": 0.75
+        },
+        {
+          "number": 48519,
+          "title": "feat(hogql): add traffic type classification functions preview",
+          "url": "https://github.com/PostHog/posthog/pull/48519",
+          "pr_shipping": 7.72,
+          "complexity": 6.84,
+          "discussion": 0.88
+        },
+        {
+          "number": 41659,
+          "title": "feat(product-analytics): add support to path cleaning on trends",
+          "url": "https://github.com/PostHog/posthog/pull/41659",
+          "pr_shipping": 7.03,
+          "complexity": 6.49,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "Piccirello",
+      "final_impact": 593.17,
+      "total_shipping": 351.89,
+      "total_reviews": 520.04,
+      "base_impact": 410.74,
+      "core_touch_ratio": 0.678,
+      "core_multiplier": 1.203,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 87,
+      "review_count": 118,
+      "top_prs": [
+        {
+          "number": 47541,
+          "title": "feat(security): Add semgrep rules for preventing IDOR",
+          "url": "https://github.com/PostHog/posthog/pull/47541",
+          "pr_shipping": 9.09,
+          "complexity": 8.67,
+          "discussion": 0.42
+        },
+        {
+          "number": 43098,
+          "title": "feat: hackathon: read-only impersonation and impersonation opt-out",
+          "url": "https://github.com/PostHog/posthog/pull/43098",
+          "pr_shipping": 8.05,
+          "complexity": 7.4,
+          "discussion": 0.66
+        },
+        {
+          "number": 45833,
+          "title": "chore(security): Add more semgrep sql injection rules",
+          "url": "https://github.com/PostHog/posthog/pull/45833",
+          "pr_shipping": 7.7,
+          "complexity": 7.16,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "meikelmosby",
+      "final_impact": 592.32,
+      "total_shipping": 345.46,
+      "total_reviews": 470.92,
+      "base_impact": 389.37,
+      "core_touch_ratio": 0.834,
+      "core_multiplier": 1.25,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 79,
+      "review_count": 103,
+      "top_prs": [
+        {
+          "number": 41629,
+          "title": "feat(workflows): support backfilling for destinations",
+          "url": "https://github.com/PostHog/posthog/pull/41629",
+          "pr_shipping": 9.51,
+          "complexity": 8.62,
+          "discussion": 0.88
+        },
+        {
+          "number": 45543,
+          "title": "feat(workflows): add canceled status to cyclotron",
+          "url": "https://github.com/PostHog/posthog/pull/45543",
+          "pr_shipping": 7.76,
+          "complexity": 7.28,
+          "discussion": 0.48
+        },
+        {
+          "number": 48145,
+          "title": "feat(workflows): property picker for vars",
+          "url": "https://github.com/PostHog/posthog/pull/48145",
+          "pr_shipping": 7.66,
+          "complexity": 7.12,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "Gilbert09",
+      "final_impact": 582.92,
+      "total_shipping": 263.11,
+      "total_reviews": 637.25,
+      "base_impact": 394.06,
+      "core_touch_ratio": 0.893,
+      "core_multiplier": 1.268,
+      "active_weeks": 10,
+      "consistency_bonus": 1.167,
+      "pr_count": 69,
+      "review_count": 126,
+      "top_prs": [
+        {
+          "number": 38430,
+          "title": "feat(hogql): Print out CTEs instead of nesting them",
+          "url": "https://github.com/PostHog/posthog/pull/38430",
+          "pr_shipping": 11.21,
+          "complexity": 9.95,
+          "discussion": 1.26
+        },
+        {
+          "number": 46962,
+          "title": "feat(data-warehouse): make import_data_activity_sync fully async",
+          "url": "https://github.com/PostHog/posthog/pull/46962",
+          "pr_shipping": 8.81,
+          "complexity": 7.93,
+          "discussion": 0.88
+        },
+        {
+          "number": 41829,
+          "title": "feat(data-warehouse): Publish warehouse rows to CDP",
+          "url": "https://github.com/PostHog/posthog/pull/41829",
+          "pr_shipping": 8.22,
+          "complexity": 7.07,
+          "discussion": 1.15
+        }
+      ]
+    },
+    {
+      "login": "dmarticus",
+      "final_impact": 579.37,
+      "total_shipping": 336.15,
+      "total_reviews": 454.52,
+      "base_impact": 377.58,
+      "core_touch_ratio": 0.929,
+      "core_multiplier": 1.279,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 64,
+      "review_count": 106,
+      "top_prs": [
+        {
+          "number": 45292,
+          "title": "chore(flags): delete decide \ud83e\udee1 ",
+          "url": "https://github.com/PostHog/posthog/pull/45292",
+          "pr_shipping": 10.36,
+          "complexity": 9.57,
+          "discussion": 0.79
+        },
+        {
+          "number": 45069,
+          "title": "chore(flags): rename `evaluation_environments` to `evaluation_contexts`",
+          "url": "https://github.com/PostHog/posthog/pull/45069",
+          "pr_shipping": 9.28,
+          "complexity": 8.08,
+          "discussion": 1.2
+        },
+        {
+          "number": 48251,
+          "title": "chore(feature-flags): polish V2 UI with templates page and UX improvements",
+          "url": "https://github.com/PostHog/posthog/pull/48251",
+          "pr_shipping": 8.9,
+          "complexity": 8.32,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "mariusandra",
+      "final_impact": 569.22,
+      "total_shipping": 262.4,
+      "total_reviews": 594.42,
+      "base_impact": 378.6,
+      "core_touch_ratio": 0.902,
+      "core_multiplier": 1.271,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 54,
+      "review_count": 122,
+      "top_prs": [
+        {
+          "number": 44499,
+          "title": "feat(notebyyk): python runtime",
+          "url": "https://github.com/PostHog/posthog/pull/44499",
+          "pr_shipping": 9.45,
+          "complexity": 8.36,
+          "discussion": 1.09
+        },
+        {
+          "number": 41768,
+          "title": "feat(new-tab): file explorer",
+          "url": "https://github.com/PostHog/posthog/pull/41768",
+          "pr_shipping": 9.37,
+          "complexity": 8.79,
+          "discussion": 0.58
+        },
+        {
+          "number": 45138,
+          "title": "feat(notebooks): cyberduck",
+          "url": "https://github.com/PostHog/posthog/pull/45138",
+          "pr_shipping": 9.07,
+          "complexity": 8.0,
+          "discussion": 1.08
+        }
+      ]
+    },
+    {
+      "login": "kappa90",
+      "final_impact": 531.99,
+      "total_shipping": 322.92,
+      "total_reviews": 380.09,
+      "base_impact": 342.93,
+      "core_touch_ratio": 0.976,
+      "core_multiplier": 1.293,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 63,
+      "review_count": 71,
+      "top_prs": [
+        {
+          "number": 41947,
+          "title": "feat(ph-ai): use artifacts for visualizations",
+          "url": "https://github.com/PostHog/posthog/pull/41947",
+          "pr_shipping": 10.06,
+          "complexity": 9.13,
+          "discussion": 0.93
+        },
+        {
+          "number": 42052,
+          "title": "feat(ph-ai): subagent tool",
+          "url": "https://github.com/PostHog/posthog/pull/42052",
+          "pr_shipping": 9.92,
+          "complexity": 8.84,
+          "discussion": 1.08
+        },
+        {
+          "number": 42909,
+          "title": "feat(ph-ai): research agent",
+          "url": "https://github.com/PostHog/posthog/pull/42909",
+          "pr_shipping": 9.83,
+          "complexity": 8.7,
+          "discussion": 1.14
+        }
+      ]
+    },
+    {
+      "login": "pl",
+      "final_impact": 519.63,
+      "total_shipping": 332.39,
+      "total_reviews": 393.93,
+      "base_impact": 353.93,
+      "core_touch_ratio": 0.689,
+      "core_multiplier": 1.207,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 61,
+      "review_count": 68,
+      "top_prs": [
+        {
+          "number": 43894,
+          "title": "feat: add dynamic event restrictions to capture",
+          "url": "https://github.com/PostHog/posthog/pull/43894",
+          "pr_shipping": 9.28,
+          "complexity": 8.35,
+          "discussion": 0.93
+        },
+        {
+          "number": 43078,
+          "title": "refactor: implement branching pipelines",
+          "url": "https://github.com/PostHog/posthog/pull/43078",
+          "pr_shipping": 9.22,
+          "complexity": 8.89,
+          "discussion": 0.33
+        },
+        {
+          "number": 42776,
+          "title": "feat: add redirect to dlq event restrictions",
+          "url": "https://github.com/PostHog/posthog/pull/42776",
+          "pr_shipping": 8.71,
+          "complexity": 8.02,
+          "discussion": 0.69
+        }
+      ]
+    },
+    {
+      "login": "frankh",
+      "final_impact": 513.94,
+      "total_shipping": 233.76,
+      "total_reviews": 519.62,
+      "base_impact": 333.81,
+      "core_touch_ratio": 0.943,
+      "core_multiplier": 1.283,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 57,
+      "review_count": 127,
+      "top_prs": [
+        {
+          "number": 44515,
+          "title": "feat(logs): Add logs settings for console capture behind feature flag",
+          "url": "https://github.com/PostHog/posthog/pull/44515",
+          "pr_shipping": 11.37,
+          "complexity": 10.16,
+          "discussion": 1.2
+        },
+        {
+          "number": 43460,
+          "title": "feat(logs): pass filters into attributes selector",
+          "url": "https://github.com/PostHog/posthog/pull/43460",
+          "pr_shipping": 8.6,
+          "complexity": 8.06,
+          "discussion": 0.54
+        },
+        {
+          "number": 42822,
+          "title": "feat(logs): Split out logs attributes in search bar",
+          "url": "https://github.com/PostHog/posthog/pull/42822",
+          "pr_shipping": 8.59,
+          "complexity": 7.54,
+          "discussion": 1.05
+        }
+      ]
+    },
+    {
+      "login": "yasen-posthog",
+      "final_impact": 502.83,
+      "total_shipping": 324.26,
+      "total_reviews": 336.79,
+      "base_impact": 328.64,
+      "core_touch_ratio": 0.977,
+      "core_multiplier": 1.293,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 69,
+      "review_count": 70,
+      "top_prs": [
+        {
+          "number": 43283,
+          "title": "feat: Add approvals frontend",
+          "url": "https://github.com/PostHog/posthog/pull/43283",
+          "pr_shipping": 10.21,
+          "complexity": 9.4,
+          "discussion": 0.81
+        },
+        {
+          "number": 45775,
+          "title": "feat(comments): allow mentions to be pushed to destinations",
+          "url": "https://github.com/PostHog/posthog/pull/45775",
+          "pr_shipping": 9.1,
+          "complexity": 8.35,
+          "discussion": 0.75
+        },
+        {
+          "number": 46511,
+          "title": "chore(environments): remove ENVIRONMENTS feature flag and standardize\u2026",
+          "url": "https://github.com/PostHog/posthog/pull/46511",
+          "pr_shipping": 9.09,
+          "complexity": 8.4,
+          "discussion": 0.69
+        }
+      ]
+    },
+    {
+      "login": "havenbarnes",
+      "final_impact": 501.16,
+      "total_shipping": 321.12,
+      "total_reviews": 345.67,
+      "base_impact": 329.71,
+      "core_touch_ratio": 0.889,
+      "core_multiplier": 1.267,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 67,
+      "review_count": 80,
+      "top_prs": [
+        {
+          "number": 44123,
+          "title": "feat(workflows): nodejs changes to support batch workflows",
+          "url": "https://github.com/PostHog/posthog/pull/44123",
+          "pr_shipping": 8.91,
+          "complexity": 7.71,
+          "discussion": 1.2
+        },
+        {
+          "number": 46747,
+          "title": "feat(workflows): add one-click unsubscribe URL to email headers, liquid variables",
+          "url": "https://github.com/PostHog/posthog/pull/46747",
+          "pr_shipping": 8.91,
+          "complexity": 7.84,
+          "discussion": 1.08
+        },
+        {
+          "number": 47557,
+          "title": "fix(workflows): Use node->django calls for batching workflows persons",
+          "url": "https://github.com/PostHog/posthog/pull/47557",
+          "pr_shipping": 8.79,
+          "complexity": 7.75,
+          "discussion": 1.04
+        }
+      ]
+    },
+    {
+      "login": "lucasheriques",
+      "final_impact": 482.3,
+      "total_shipping": 188.43,
+      "total_reviews": 543.82,
+      "base_impact": 312.82,
+      "core_touch_ratio": 0.949,
+      "core_multiplier": 1.285,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 34,
+      "review_count": 120,
+      "top_prs": [
+        {
+          "number": 44978,
+          "title": "feat(surveys): minimal survey wizard with template selection and appearance customization",
+          "url": "https://github.com/PostHog/posthog/pull/44978",
+          "pr_shipping": 9.2,
+          "complexity": 8.05,
+          "discussion": 1.14
+        },
+        {
+          "number": 43096,
+          "title": "feat: ai product tours",
+          "url": "https://github.com/PostHog/posthog/pull/43096",
+          "pr_shipping": 8.42,
+          "complexity": 7.57,
+          "discussion": 0.85
+        },
+        {
+          "number": 44258,
+          "title": "feat(surveys): add AI summarization for open-ended responses",
+          "url": "https://github.com/PostHog/posthog/pull/44258",
+          "pr_shipping": 8.3,
+          "complexity": 7.34,
+          "discussion": 0.97
+        }
+      ]
+    },
+    {
+      "login": "tatoalo",
+      "final_impact": 467.12,
+      "total_shipping": 228.93,
+      "total_reviews": 426.01,
+      "base_impact": 297.91,
+      "core_touch_ratio": 0.963,
+      "core_multiplier": 1.289,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 44,
+      "review_count": 89,
+      "top_prs": [
+        {
+          "number": 45254,
+          "title": "feat(ph-ai): queue system",
+          "url": "https://github.com/PostHog/posthog/pull/45254",
+          "pr_shipping": 10.15,
+          "complexity": 8.65,
+          "discussion": 1.51
+        },
+        {
+          "number": 44306,
+          "title": "feat(ph-ai): approve/reject flow tools",
+          "url": "https://github.com/PostHog/posthog/pull/44306",
+          "pr_shipping": 9.0,
+          "complexity": 7.94,
+          "discussion": 1.07
+        },
+        {
+          "number": 44057,
+          "title": "feat(ph-ai): error context filter UI + pagination",
+          "url": "https://github.com/PostHog/posthog/pull/44057",
+          "pr_shipping": 8.81,
+          "complexity": 8.04,
+          "discussion": 0.77
+        }
+      ]
+    },
+    {
+      "login": "Twixes",
+      "final_impact": 461.3,
+      "total_shipping": 333.8,
+      "total_reviews": 232.82,
+      "base_impact": 298.46,
+      "core_touch_ratio": 0.96,
+      "core_multiplier": 1.288,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 70,
+      "review_count": 46,
+      "top_prs": [
+        {
+          "number": 44992,
+          "title": "feat(signals): Video segment clustering",
+          "url": "https://github.com/PostHog/posthog/pull/44992",
+          "pr_shipping": 12.04,
+          "complexity": 10.74,
+          "discussion": 1.3
+        },
+        {
+          "number": 43805,
+          "title": "feat(signals): Video-first session summarization",
+          "url": "https://github.com/PostHog/posthog/pull/43805",
+          "pr_shipping": 9.27,
+          "complexity": 7.92,
+          "discussion": 1.35
+        },
+        {
+          "number": 42325,
+          "title": "feat(ai): Full session replay mode",
+          "url": "https://github.com/PostHog/posthog/pull/42325",
+          "pr_shipping": 9.19,
+          "complexity": 8.42,
+          "discussion": 0.77
+        }
+      ]
+    },
+    {
+      "login": "jabahamondes",
+      "final_impact": 452.94,
+      "total_shipping": 291.99,
+      "total_reviews": 280.46,
+      "base_impact": 287.95,
+      "core_touch_ratio": 0.976,
+      "core_multiplier": 1.293,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 55,
+      "review_count": 66,
+      "top_prs": [
+        {
+          "number": 42291,
+          "title": "feat(ma): adding non integrated conversion row and cell actions",
+          "url": "https://github.com/PostHog/posthog/pull/42291",
+          "pr_shipping": 9.12,
+          "complexity": 8.7,
+          "discussion": 0.42
+        },
+        {
+          "number": 46094,
+          "title": "refactor(marketing-analytics): rename MarketingAnalyticsHelperForColu\u2026",
+          "url": "https://github.com/PostHog/posthog/pull/46094",
+          "pr_shipping": 8.65,
+          "complexity": 7.88,
+          "discussion": 0.77
+        },
+        {
+          "number": 43708,
+          "title": "feat(conversion-goals): add conversion goals team setting",
+          "url": "https://github.com/PostHog/posthog/pull/43708",
+          "pr_shipping": 8.6,
+          "complexity": 7.68,
+          "discussion": 0.93
+        }
+      ]
+    },
+    {
+      "login": "arthurdedeus",
+      "final_impact": 450.94,
+      "total_shipping": 360.21,
+      "total_reviews": 184.57,
+      "base_impact": 298.74,
+      "core_touch_ratio": 0.979,
+      "core_multiplier": 1.294,
+      "active_weeks": 10,
+      "consistency_bonus": 1.167,
+      "pr_count": 77,
+      "review_count": 37,
+      "top_prs": [
+        {
+          "number": 44277,
+          "title": "feat(customers): Configure customer profile content",
+          "url": "https://github.com/PostHog/posthog/pull/44277",
+          "pr_shipping": 8.37,
+          "complexity": 7.4,
+          "discussion": 0.97
+        },
+        {
+          "number": 47374,
+          "title": "feat: Add customer journeys tab in customer analytics scene",
+          "url": "https://github.com/PostHog/posthog/pull/47374",
+          "pr_shipping": 7.88,
+          "complexity": 7.25,
+          "discussion": 0.62
+        },
+        {
+          "number": 47757,
+          "title": "feat(customer-analytics): Add last seen column to persons list",
+          "url": "https://github.com/PostHog/posthog/pull/47757",
+          "pr_shipping": 7.27,
+          "complexity": 6.42,
+          "discussion": 0.85
+        }
+      ]
+    },
+    {
+      "login": "TueHaulund",
+      "final_impact": 449.76,
+      "total_shipping": 255.47,
+      "total_reviews": 376.74,
+      "base_impact": 297.91,
+      "core_touch_ratio": 0.919,
+      "core_multiplier": 1.276,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 51,
+      "review_count": 87,
+      "top_prs": [
+        {
+          "number": 48420,
+          "title": "feat(session-replay): temporal deletion workflows and admin UI",
+          "url": "https://github.com/PostHog/posthog/pull/48420",
+          "pr_shipping": 10.66,
+          "complexity": 9.94,
+          "discussion": 0.72
+        },
+        {
+          "number": 46368,
+          "title": "feat: add NodeJS Recording API to support encryption of recording data",
+          "url": "https://github.com/PostHog/posthog/pull/46368",
+          "pr_shipping": 10.27,
+          "complexity": 9.19,
+          "discussion": 1.08
+        },
+        {
+          "number": 47609,
+          "title": "feat(session-replay): add per-session encryption and deletion side-effects",
+          "url": "https://github.com/PostHog/posthog/pull/47609",
+          "pr_shipping": 9.66,
+          "complexity": 8.79,
+          "discussion": 0.87
+        }
+      ]
+    },
+    {
+      "login": "vdekrijger",
+      "final_impact": 439.35,
+      "total_shipping": 262.67,
+      "total_reviews": 349.5,
+      "base_impact": 293.06,
+      "core_touch_ratio": 0.774,
+      "core_multiplier": 1.232,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 58,
+      "review_count": 93,
+      "top_prs": [
+        {
+          "number": 45000,
+          "title": "feat(ci/cd): Add compat testing for Clickhouse versions in use",
+          "url": "https://github.com/PostHog/posthog/pull/45000",
+          "pr_shipping": 9.03,
+          "complexity": 7.96,
+          "discussion": 1.07
+        },
+        {
+          "number": 43566,
+          "title": "feat(tf-exporter): Add dashboards, alerts and hog functions to the TF exporter",
+          "url": "https://github.com/PostHog/posthog/pull/43566",
+          "pr_shipping": 7.97,
+          "complexity": 7.49,
+          "discussion": 0.48
+        },
+        {
+          "number": 44206,
+          "title": "chore(exports): Introduce failure type for exported assets to better classify failures",
+          "url": "https://github.com/PostHog/posthog/pull/44206",
+          "pr_shipping": 7.43,
+          "complexity": 6.58,
+          "discussion": 0.85
+        }
+      ]
+    },
+    {
+      "login": "veryayskiy",
+      "final_impact": 436.19,
+      "total_shipping": 332.47,
+      "total_reviews": 182.84,
+      "base_impact": 280.1,
+      "core_touch_ratio": 0.992,
+      "core_multiplier": 1.298,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 71,
+      "review_count": 58,
+      "top_prs": [
+        {
+          "number": 43697,
+          "title": "feat: product conversations init",
+          "url": "https://github.com/PostHog/posthog/pull/43697",
+          "pr_shipping": 10.83,
+          "complexity": 9.6,
+          "discussion": 1.24
+        },
+        {
+          "number": 47678,
+          "title": "feat: slack channel for support",
+          "url": "https://github.com/PostHog/posthog/pull/47678",
+          "pr_shipping": 9.65,
+          "complexity": 8.58,
+          "discussion": 1.07
+        },
+        {
+          "number": 47277,
+          "title": "feat: support workflows actions",
+          "url": "https://github.com/PostHog/posthog/pull/47277",
+          "pr_shipping": 8.29,
+          "complexity": 7.48,
+          "discussion": 0.81
+        }
+      ]
+    },
+    {
+      "login": "andrewjmcgehee",
+      "final_impact": 435.4,
+      "total_shipping": 292.42,
+      "total_reviews": 265.34,
+      "base_impact": 282.94,
+      "core_touch_ratio": 0.941,
+      "core_multiplier": 1.282,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 68,
+      "review_count": 64,
+      "top_prs": [
+        {
+          "number": 47016,
+          "title": "feat(sql-editor): increase default SQL result limit from 100 to 2000",
+          "url": "https://github.com/PostHog/posthog/pull/47016",
+          "pr_shipping": 10.87,
+          "complexity": 10.12,
+          "discussion": 0.75
+        },
+        {
+          "number": 47759,
+          "title": "feat(modeling): modeling scene overhaul prepping to move it into prod",
+          "url": "https://github.com/PostHog/posthog/pull/47759",
+          "pr_shipping": 8.36,
+          "complexity": 7.53,
+          "discussion": 0.83
+        },
+        {
+          "number": 42359,
+          "title": "feat(data-modeling): matview workflow based on new node model",
+          "url": "https://github.com/PostHog/posthog/pull/42359",
+          "pr_shipping": 8.28,
+          "complexity": 7.41,
+          "discussion": 0.87
+        }
+      ]
+    },
+    {
+      "login": "ReeceJones",
+      "final_impact": 394.8,
+      "total_shipping": 258.33,
+      "total_reviews": 272.27,
+      "base_impact": 263.21,
+      "core_touch_ratio": 0.892,
+      "core_multiplier": 1.268,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 56,
+      "review_count": 55,
+      "top_prs": [
+        {
+          "number": 44118,
+          "title": "feat: add passkey as 2fa method",
+          "url": "https://github.com/PostHog/posthog/pull/44118",
+          "pr_shipping": 9.94,
+          "complexity": 8.84,
+          "discussion": 1.1
+        },
+        {
+          "number": 43625,
+          "title": "feat: add support for passkey login",
+          "url": "https://github.com/PostHog/posthog/pull/43625",
+          "pr_shipping": 9.75,
+          "complexity": 8.63,
+          "discussion": 1.12
+        },
+        {
+          "number": 43191,
+          "title": "feat: add is_active to organizations",
+          "url": "https://github.com/PostHog/posthog/pull/43191",
+          "pr_shipping": 8.8,
+          "complexity": 7.94,
+          "discussion": 0.87
+        }
+      ]
+    },
+    {
+      "login": "ablaszkiewicz",
+      "final_impact": 394.11,
+      "total_shipping": 240.86,
+      "total_reviews": 280.47,
+      "base_impact": 254.72,
+      "core_touch_ratio": 0.906,
+      "core_multiplier": 1.272,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 59,
+      "review_count": 65,
+      "top_prs": [
+        {
+          "number": 44711,
+          "title": "feat: ingestion controls",
+          "url": "https://github.com/PostHog/posthog/pull/44711",
+          "pr_shipping": 9.01,
+          "complexity": 7.93,
+          "discussion": 1.08
+        },
+        {
+          "number": 48433,
+          "title": "feat: ET weekly digest",
+          "url": "https://github.com/PostHog/posthog/pull/48433",
+          "pr_shipping": 7.92,
+          "complexity": 6.98,
+          "discussion": 0.94
+        },
+        {
+          "number": 44232,
+          "title": "feat: send issue spiking event",
+          "url": "https://github.com/PostHog/posthog/pull/44232",
+          "pr_shipping": 7.57,
+          "complexity": 6.72,
+          "discussion": 0.85
+        }
+      ]
+    },
+    {
+      "login": "gustavohstrassburger",
+      "final_impact": 393.02,
+      "total_shipping": 271.85,
+      "total_reviews": 221.13,
+      "base_impact": 254.1,
+      "core_touch_ratio": 0.904,
+      "core_multiplier": 1.271,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 61,
+      "review_count": 47,
+      "top_prs": [
+        {
+          "number": 42321,
+          "title": "feat: Add precalculated person properties for realtime cohort",
+          "url": "https://github.com/PostHog/posthog/pull/42321",
+          "pr_shipping": 9.45,
+          "complexity": 8.28,
+          "discussion": 1.17
+        },
+        {
+          "number": 47365,
+          "title": "feat: allow run realtime cohorts calculations for a % of teams",
+          "url": "https://github.com/PostHog/posthog/pull/47365",
+          "pr_shipping": 7.31,
+          "complexity": 6.29,
+          "discussion": 1.02
+        },
+        {
+          "number": 48214,
+          "title": "feat: implement point-in-time person properties reconstruction",
+          "url": "https://github.com/PostHog/posthog/pull/48214",
+          "pr_shipping": 7.27,
+          "complexity": 6.27,
+          "discussion": 1.0
+        }
+      ]
+    },
+    {
+      "login": "robbie-c",
+      "final_impact": 391.21,
+      "total_shipping": 294.57,
+      "total_reviews": 197.61,
+      "base_impact": 260.64,
+      "core_touch_ratio": 0.895,
+      "core_multiplier": 1.268,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 59,
+      "review_count": 38,
+      "top_prs": [
+        {
+          "number": 43131,
+          "title": "feat(analytics-platform): Improve query performance by saving and reusing intermediate results",
+          "url": "https://github.com/PostHog/posthog/pull/43131",
+          "pr_shipping": 9.41,
+          "complexity": 8.46,
+          "discussion": 0.95
+        },
+        {
+          "number": 43786,
+          "title": "feat(analytics-platform): More improvements to lazy preaggregation",
+          "url": "https://github.com/PostHog/posthog/pull/43786",
+          "pr_shipping": 8.02,
+          "complexity": 7.01,
+          "discussion": 1.01
+        },
+        {
+          "number": 47707,
+          "title": "feat(analytics-platform): Refactor executor to use redis query status and pubsub rather than polling",
+          "url": "https://github.com/PostHog/posthog/pull/47707",
+          "pr_shipping": 7.79,
+          "complexity": 6.81,
+          "discussion": 0.98
+        }
+      ]
+    },
+    {
+      "login": "MattBro",
+      "final_impact": 379.83,
+      "total_shipping": 243.79,
+      "total_reviews": 284.87,
+      "base_impact": 258.17,
+      "core_touch_ratio": 0.811,
+      "core_multiplier": 1.243,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 55,
+      "review_count": 56,
+      "top_prs": [
+        {
+          "number": 44485,
+          "title": "feat(oauth): OAuth for MCP - AS Metadata, DCR, and Protected Resource Metadata",
+          "url": "https://github.com/PostHog/posthog/pull/44485",
+          "pr_shipping": 8.53,
+          "complexity": 7.52,
+          "discussion": 1.01
+        },
+        {
+          "number": 48838,
+          "title": "feat: add oauth.posthog.com cross-region OAuth proxy",
+          "url": "https://github.com/PostHog/posthog/pull/48838",
+          "pr_shipping": 8.43,
+          "complexity": 7.71,
+          "discussion": 0.72
+        },
+        {
+          "number": 45468,
+          "title": "feat(onboarding): AI-powered conversational onboarding with product discovery",
+          "url": "https://github.com/PostHog/posthog/pull/45468",
+          "pr_shipping": 7.87,
+          "complexity": 6.81,
+          "discussion": 1.07
+        }
+      ]
+    },
+    {
+      "login": "oliverb123",
+      "final_impact": 376.85,
+      "total_shipping": 197.8,
+      "total_reviews": 343.82,
+      "base_impact": 248.91,
+      "core_touch_ratio": 0.872,
+      "core_multiplier": 1.262,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 43,
+      "review_count": 78,
+      "top_prs": [
+        {
+          "number": 48116,
+          "title": "feat(sig): reports more gooder",
+          "url": "https://github.com/PostHog/posthog/pull/48116",
+          "pr_shipping": 9.77,
+          "complexity": 8.44,
+          "discussion": 1.32
+        },
+        {
+          "number": 46983,
+          "title": "feat(sig): working signal grouping flow",
+          "url": "https://github.com/PostHog/posthog/pull/46983",
+          "pr_shipping": 8.8,
+          "complexity": 7.59,
+          "discussion": 1.21
+        },
+        {
+          "number": 43148,
+          "title": "feat(sig): embedding table take 2",
+          "url": "https://github.com/PostHog/posthog/pull/43148",
+          "pr_shipping": 8.15,
+          "complexity": 7.26,
+          "discussion": 0.88
+        }
+      ]
+    },
+    {
+      "login": "a-lider",
+      "final_impact": 372.55,
+      "total_shipping": 199.22,
+      "total_reviews": 332.17,
+      "base_impact": 245.75,
+      "core_touch_ratio": 0.937,
+      "core_multiplier": 1.281,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 42,
+      "review_count": 70,
+      "top_prs": [
+        {
+          "number": 41754,
+          "title": "feat: custom events image preview",
+          "url": "https://github.com/PostHog/posthog/pull/41754",
+          "pr_shipping": 9.97,
+          "complexity": 8.89,
+          "discussion": 1.08
+        },
+        {
+          "number": 45510,
+          "title": "feat: move tagging from Boost to Free",
+          "url": "https://github.com/PostHog/posthog/pull/45510",
+          "pr_shipping": 8.66,
+          "complexity": 7.77,
+          "discussion": 0.88
+        },
+        {
+          "number": 48380,
+          "title": "feat: effective access level in the new UI",
+          "url": "https://github.com/PostHog/posthog/pull/48380",
+          "pr_shipping": 8.49,
+          "complexity": 7.5,
+          "discussion": 0.99
+        }
+      ]
+    },
+    {
+      "login": "jurajmajerik",
+      "final_impact": 364.08,
+      "total_shipping": 206.12,
+      "total_reviews": 277.62,
+      "base_impact": 231.15,
+      "core_touch_ratio": 0.982,
+      "core_multiplier": 1.295,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 45,
+      "review_count": 64,
+      "top_prs": [
+        {
+          "number": 45820,
+          "title": "chore(experiments): Move default stats method to Team model",
+          "url": "https://github.com/PostHog/posthog/pull/45820",
+          "pr_shipping": 8.55,
+          "complexity": 7.78,
+          "discussion": 0.77
+        },
+        {
+          "number": 45346,
+          "title": "feat(experiments): Default confidence level setting",
+          "url": "https://github.com/PostHog/posthog/pull/45346",
+          "pr_shipping": 7.43,
+          "complexity": 6.74,
+          "discussion": 0.69
+        },
+        {
+          "number": 42336,
+          "title": "fix(expeirments): Adjust deltas and bars color\u001ds",
+          "url": "https://github.com/PostHog/posthog/pull/42336",
+          "pr_shipping": 6.91,
+          "complexity": 6.28,
+          "discussion": 0.62
+        }
+      ]
+    },
+    {
+      "login": "carlos-marchal-ph",
+      "final_impact": 360.11,
+      "total_shipping": 161.12,
+      "total_reviews": 367.56,
+      "base_impact": 233.37,
+      "core_touch_ratio": 0.953,
+      "core_multiplier": 1.286,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 38,
+      "review_count": 84,
+      "top_prs": [
+        {
+          "number": 45001,
+          "title": "refactor(llma): centralise LLM calls",
+          "url": "https://github.com/PostHog/posthog/pull/45001",
+          "pr_shipping": 9.01,
+          "complexity": 8.18,
+          "discussion": 0.83
+        },
+        {
+          "number": 45935,
+          "title": "feat: add provider and model selection to evals",
+          "url": "https://github.com/PostHog/posthog/pull/45935",
+          "pr_shipping": 8.79,
+          "complexity": 7.88,
+          "discussion": 0.91
+        },
+        {
+          "number": 42859,
+          "title": "feat: add byok to evals",
+          "url": "https://github.com/PostHog/posthog/pull/42859",
+          "pr_shipping": 8.73,
+          "complexity": 7.88,
+          "discussion": 0.85
+        }
+      ]
+    },
+    {
+      "login": "rodrigoi",
+      "final_impact": 350.31,
+      "total_shipping": 244.33,
+      "total_reviews": 187.84,
+      "base_impact": 224.56,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 52,
+      "review_count": 42,
+      "top_prs": [
+        {
+          "number": 48530,
+          "title": "feat(experiments): add experiment metric to the ajv compiled validators list.",
+          "url": "https://github.com/PostHog/posthog/pull/48530",
+          "pr_shipping": 7.5,
+          "complexity": 7.02,
+          "discussion": 0.48
+        },
+        {
+          "number": 41173,
+          "title": "feat(experiments): execute retention metric.",
+          "url": "https://github.com/PostHog/posthog/pull/41173",
+          "pr_shipping": 6.8,
+          "complexity": 6.59,
+          "discussion": 0.21
+        },
+        {
+          "number": 47074,
+          "title": "feat(experiments): detailed metric error messages",
+          "url": "https://github.com/PostHog/posthog/pull/47074",
+          "pr_shipping": 6.79,
+          "complexity": 6.46,
+          "discussion": 0.33
+        }
+      ]
+    },
+    {
+      "login": "jordanm-posthog",
+      "final_impact": 340.19,
+      "total_shipping": 285.36,
+      "total_reviews": 116.64,
+      "base_impact": 226.31,
+      "core_touch_ratio": 0.785,
+      "core_multiplier": 1.235,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 61,
+      "review_count": 31,
+      "top_prs": [
+        {
+          "number": 46627,
+          "title": "feat(web-analytics): Add new regions map to web analytics",
+          "url": "https://github.com/PostHog/posthog/pull/46627",
+          "pr_shipping": 9.86,
+          "complexity": 9.44,
+          "discussion": 0.42
+        },
+        {
+          "number": 43885,
+          "title": "feat(web-analytics): Add Real Time Metrics Dashboard",
+          "url": "https://github.com/PostHog/posthog/pull/43885",
+          "pr_shipping": 8.1,
+          "complexity": 7.29,
+          "discussion": 0.81
+        },
+        {
+          "number": 43998,
+          "title": "feat(web-analytics): Add Filter Presets to Web Analytics",
+          "url": "https://github.com/PostHog/posthog/pull/43998",
+          "pr_shipping": 7.91,
+          "complexity": 7.02,
+          "discussion": 0.88
+        }
+      ]
+    },
+    {
+      "login": "nickbest-ph",
+      "final_impact": 325.95,
+      "total_shipping": 159.71,
+      "total_reviews": 333.37,
+      "base_impact": 220.49,
+      "core_touch_ratio": 0.773,
+      "core_multiplier": 1.232,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 35,
+      "review_count": 74,
+      "top_prs": [
+        {
+          "number": 45540,
+          "title": "feat(personhog): personhog-replica implementation",
+          "url": "https://github.com/PostHog/posthog/pull/45540",
+          "pr_shipping": 8.85,
+          "complexity": 8.43,
+          "discussion": 0.42
+        },
+        {
+          "number": 46093,
+          "title": "feat(personhog): support for db routing based on client request",
+          "url": "https://github.com/PostHog/posthog/pull/46093",
+          "pr_shipping": 8.48,
+          "complexity": 8.0,
+          "discussion": 0.48
+        },
+        {
+          "number": 46337,
+          "title": "feat(personhog): routing layer",
+          "url": "https://github.com/PostHog/posthog/pull/46337",
+          "pr_shipping": 8.01,
+          "complexity": 7.81,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "hpouillot",
+      "final_impact": 322.91,
+      "total_shipping": 221.98,
+      "total_reviews": 213.86,
+      "base_impact": 219.14,
+      "core_touch_ratio": 0.76,
+      "core_multiplier": 1.228,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 44,
+      "review_count": 52,
+      "top_prs": [
+        {
+          "number": 42281,
+          "title": "chore: stacktrace display v2",
+          "url": "https://github.com/PostHog/posthog/pull/42281",
+          "pr_shipping": 10.12,
+          "complexity": 9.4,
+          "discussion": 0.72
+        },
+        {
+          "number": 47092,
+          "title": "chore(err): cymbal batch event processing endpoint",
+          "url": "https://github.com/PostHog/posthog/pull/47092",
+          "pr_shipping": 9.55,
+          "complexity": 8.86,
+          "discussion": 0.69
+        },
+        {
+          "number": 46018,
+          "title": "chore(cymbal): add resolution testing (#44647)",
+          "url": "https://github.com/PostHog/posthog/pull/46018",
+          "pr_shipping": 8.78,
+          "complexity": 8.09,
+          "discussion": 0.69
+        }
+      ]
+    },
+    {
+      "login": "andehen",
+      "final_impact": 316.46,
+      "total_shipping": 170.69,
+      "total_reviews": 267.39,
+      "base_impact": 204.53,
+      "core_touch_ratio": 0.965,
+      "core_multiplier": 1.289,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 42,
+      "review_count": 61,
+      "top_prs": [
+        {
+          "number": 42807,
+          "title": "fix(experiments): move all queries over to new query builder and clean up",
+          "url": "https://github.com/PostHog/posthog/pull/42807",
+          "pr_shipping": 8.83,
+          "complexity": 8.63,
+          "discussion": 0.21
+        },
+        {
+          "number": 43458,
+          "title": "fix: tag all frontend hogql queries",
+          "url": "https://github.com/PostHog/posthog/pull/43458",
+          "pr_shipping": 7.19,
+          "complexity": 6.57,
+          "discussion": 0.62
+        },
+        {
+          "number": 44898,
+          "title": "feat(experiments): rewrite ratio query with combined_events for efficiency",
+          "url": "https://github.com/PostHog/posthog/pull/44898",
+          "pr_shipping": 7.01,
+          "complexity": 6.53,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "ksvat",
+      "final_impact": 311.1,
+      "total_shipping": 182.56,
+      "total_reviews": 231.94,
+      "base_impact": 199.84,
+      "core_touch_ratio": 0.991,
+      "core_multiplier": 1.297,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 43,
+      "review_count": 48,
+      "top_prs": [
+        {
+          "number": 43581,
+          "title": "feat(replay): refactor unified replay button",
+          "url": "https://github.com/PostHog/posthog/pull/43581",
+          "pr_shipping": 6.98,
+          "complexity": 6.36,
+          "discussion": 0.62
+        },
+        {
+          "number": 43940,
+          "title": "feat(replay): convert sampled persons modal to unified replay entrypoint",
+          "url": "https://github.com/PostHog/posthog/pull/43940",
+          "pr_shipping": 6.43,
+          "complexity": 5.8,
+          "discussion": 0.62
+        },
+        {
+          "number": 43491,
+          "title": "feat(replay): Create unified replay entrypoint button (open tab), add to Cohorts",
+          "url": "https://github.com/PostHog/posthog/pull/43491",
+          "pr_shipping": 6.21,
+          "complexity": 5.79,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "orian",
+      "final_impact": 289.14,
+      "total_shipping": 118.71,
+      "total_reviews": 309.92,
+      "base_impact": 185.64,
+      "core_touch_ratio": 0.934,
+      "core_multiplier": 1.28,
+      "active_weeks": 13,
+      "consistency_bonus": 1.217,
+      "pr_count": 33,
+      "review_count": 69,
+      "top_prs": [
+        {
+          "number": 43493,
+          "title": "chore: Skip `SAMPLE 1` clause in query parsing for efficiency.",
+          "url": "https://github.com/PostHog/posthog/pull/43493",
+          "pr_shipping": 6.97,
+          "complexity": 6.49,
+          "discussion": 0.48
+        },
+        {
+          "number": 48089,
+          "title": "feat: bump clickhouse to 25.12.5.44",
+          "url": "https://github.com/PostHog/posthog/pull/48089",
+          "pr_shipping": 5.98,
+          "complexity": 5.4,
+          "discussion": 0.58
+        },
+        {
+          "number": 42990,
+          "title": "feat(event-list): progressive time window optimization for event list queries",
+          "url": "https://github.com/PostHog/posthog/pull/42990",
+          "pr_shipping": 5.55,
+          "complexity": 5.07,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "andyzzhao",
+      "final_impact": 283.04,
+      "total_shipping": 161.2,
+      "total_reviews": 227.23,
+      "base_impact": 184.31,
+      "core_touch_ratio": 0.992,
+      "core_multiplier": 1.298,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 36,
+      "review_count": 49,
+      "top_prs": [
+        {
+          "number": 43333,
+          "title": "chore: remove celery subscriptions",
+          "url": "https://github.com/PostHog/posthog/pull/43333",
+          "pr_shipping": 6.79,
+          "complexity": 6.46,
+          "discussion": 0.33
+        },
+        {
+          "number": 47936,
+          "title": "feat: migrate query cache to dedicated cluster",
+          "url": "https://github.com/PostHog/posthog/pull/47936",
+          "pr_shipping": 6.65,
+          "complexity": 6.11,
+          "discussion": 0.54
+        },
+        {
+          "number": 46333,
+          "title": "feat: pre-sort event queries to reduce CH mem",
+          "url": "https://github.com/PostHog/posthog/pull/46333",
+          "pr_shipping": 6.43,
+          "complexity": 5.85,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "sampennington",
+      "final_impact": 280.56,
+      "total_shipping": 226.27,
+      "total_reviews": 178.43,
+      "base_impact": 209.53,
+      "core_touch_ratio": 0.787,
+      "core_multiplier": 1.236,
+      "active_weeks": 5,
+      "consistency_bonus": 1.083,
+      "pr_count": 49,
+      "review_count": 45,
+      "top_prs": [
+        {
+          "number": 47647,
+          "title": "feat(insights): Add insight to dashboard modal Experiment v2",
+          "url": "https://github.com/PostHog/posthog/pull/47647",
+          "pr_shipping": 7.47,
+          "complexity": 6.68,
+          "discussion": 0.79
+        },
+        {
+          "number": 47646,
+          "title": "chore(insights): cleanup add insight to dashboard modal exp",
+          "url": "https://github.com/PostHog/posthog/pull/47646",
+          "pr_shipping": 7.41,
+          "complexity": 6.66,
+          "discussion": 0.75
+        },
+        {
+          "number": 46526,
+          "title": "chore(Insights e2e): Adds tests for insights",
+          "url": "https://github.com/PostHog/posthog/pull/46526",
+          "pr_shipping": 7.3,
+          "complexity": 6.76,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "fasyy612",
+      "final_impact": 280.18,
+      "total_shipping": 185.87,
+      "total_reviews": 167.97,
+      "base_impact": 179.6,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 40,
+      "review_count": 40,
+      "top_prs": [
+        {
+          "number": 44207,
+          "title": "feat: add new linear integration on replay",
+          "url": "https://github.com/PostHog/posthog/pull/44207",
+          "pr_shipping": 9.66,
+          "complexity": 8.65,
+          "discussion": 1.01
+        },
+        {
+          "number": 45339,
+          "title": "feat: add Jira integration to posthog and add new setting to replay",
+          "url": "https://github.com/PostHog/posthog/pull/45339",
+          "pr_shipping": 8.18,
+          "complexity": 7.14,
+          "discussion": 1.04
+        },
+        {
+          "number": 48304,
+          "title": "feat: collapse identical replay inspector rows",
+          "url": "https://github.com/PostHog/posthog/pull/48304",
+          "pr_shipping": 7.95,
+          "complexity": 7.13,
+          "discussion": 0.81
+        }
+      ]
+    },
+    {
+      "login": "gesh",
+      "final_impact": 279.7,
+      "total_shipping": 119.99,
+      "total_reviews": 289.45,
+      "base_impact": 179.3,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 28,
+      "review_count": 70,
+      "top_prs": [
+        {
+          "number": 42551,
+          "title": "feat(insights): combine events in trends",
+          "url": "https://github.com/PostHog/posthog/pull/42551",
+          "pr_shipping": 9.9,
+          "complexity": 8.85,
+          "discussion": 1.05
+        },
+        {
+          "number": 48075,
+          "title": "feat(funnels): inline events UI in funnels",
+          "url": "https://github.com/PostHog/posthog/pull/48075",
+          "pr_shipping": 7.63,
+          "complexity": 6.86,
+          "discussion": 0.77
+        },
+        {
+          "number": 47709,
+          "title": "fix(insights): property group filters responsiveness",
+          "url": "https://github.com/PostHog/posthog/pull/47709",
+          "pr_shipping": 6.41,
+          "complexity": 5.99,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "rossgray",
+      "final_impact": 260.77,
+      "total_shipping": 173.2,
+      "total_reviews": 166.69,
+      "base_impact": 170.92,
+      "core_touch_ratio": 0.964,
+      "core_multiplier": 1.289,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 40,
+      "review_count": 49,
+      "top_prs": [
+        {
+          "number": 45447,
+          "title": "feat(batch-exports): Improved schedule support",
+          "url": "https://github.com/PostHog/posthog/pull/45447",
+          "pr_shipping": 9.75,
+          "complexity": 8.83,
+          "discussion": 0.93
+        },
+        {
+          "number": 47788,
+          "title": "feat(batch-exports): estimate total records for backfills",
+          "url": "https://github.com/PostHog/posthog/pull/47788",
+          "pr_shipping": 8.15,
+          "complexity": 7.36,
+          "discussion": 0.79
+        },
+        {
+          "number": 43498,
+          "title": "fix(batch-exports): Add attempt number to files in S3 stage",
+          "url": "https://github.com/PostHog/posthog/pull/43498",
+          "pr_shipping": 6.84,
+          "complexity": 6.26,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "anirudhpillai",
+      "final_impact": 249.78,
+      "total_shipping": 152.04,
+      "total_reviews": 181.55,
+      "base_impact": 162.37,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 30,
+      "review_count": 39,
+      "top_prs": [
+        {
+          "number": 45875,
+          "title": "feat(insights): All insights page massive filters upgrade",
+          "url": "https://github.com/PostHog/posthog/pull/45875",
+          "pr_shipping": 8.46,
+          "complexity": 7.67,
+          "discussion": 0.79
+        },
+        {
+          "number": 46393,
+          "title": "feat(insights): Home tab for product analytics",
+          "url": "https://github.com/PostHog/posthog/pull/46393",
+          "pr_shipping": 8.09,
+          "complexity": 6.97,
+          "discussion": 1.11
+        },
+        {
+          "number": 47770,
+          "title": "fix(retention): aggregation multi line select",
+          "url": "https://github.com/PostHog/posthog/pull/47770",
+          "pr_shipping": 7.46,
+          "complexity": 6.74,
+          "discussion": 0.72
+        }
+      ]
+    },
+    {
+      "login": "sortafreel",
+      "final_impact": 245.76,
+      "total_shipping": 118.67,
+      "total_reviews": 251.41,
+      "base_impact": 165.13,
+      "core_touch_ratio": 0.919,
+      "core_multiplier": 1.276,
+      "active_weeks": 10,
+      "consistency_bonus": 1.167,
+      "pr_count": 26,
+      "review_count": 46,
+      "top_prs": [
+        {
+          "number": 46261,
+          "title": "feat: Use Puppeteer to keep TS consistent and skip inactivity to speed up video export",
+          "url": "https://github.com/PostHog/posthog/pull/46261",
+          "pr_shipping": 8.79,
+          "complexity": 7.86,
+          "discussion": 0.93
+        },
+        {
+          "number": 47185,
+          "title": "feat(signals): Framework for emitting data warehouse sync results as signals (starting with Zendesk)",
+          "url": "https://github.com/PostHog/posthog/pull/47185",
+          "pr_shipping": 7.82,
+          "complexity": 6.84,
+          "discussion": 0.98
+        },
+        {
+          "number": 48219,
+          "title": "feat(signals): Emit GitHub issues as Signals + Tweaks to emitters",
+          "url": "https://github.com/PostHog/posthog/pull/48219",
+          "pr_shipping": 7.82,
+          "complexity": 6.79,
+          "discussion": 1.04
+        }
+      ]
+    },
+    {
+      "login": "estefaniarabadan",
+      "final_impact": 230.25,
+      "total_shipping": 116.2,
+      "total_reviews": 211.18,
+      "base_impact": 149.44,
+      "core_touch_ratio": 0.946,
+      "core_multiplier": 1.284,
+      "active_weeks": 12,
+      "consistency_bonus": 1.2,
+      "pr_count": 28,
+      "review_count": 52,
+      "top_prs": [
+        {
+          "number": 46815,
+          "title": "feat(dp): bring back the pipelines V3 changes",
+          "url": "https://github.com/PostHog/posthog/pull/46815",
+          "pr_shipping": 8.88,
+          "complexity": 7.95,
+          "discussion": 0.93
+        },
+        {
+          "number": 45043,
+          "title": "feat(data-warehouse): add pipeline v3 extract logic with kafka batch export",
+          "url": "https://github.com/PostHog/posthog/pull/45043",
+          "pr_shipping": 7.57,
+          "complexity": 6.52,
+          "discussion": 1.05
+        },
+        {
+          "number": 45894,
+          "title": "revert: pipeline v3 export (45043)",
+          "url": "https://github.com/PostHog/posthog/pull/45894",
+          "pr_shipping": 6.85,
+          "complexity": 6.52,
+          "discussion": 0.33
+        }
+      ]
+    },
+    {
+      "login": "mendral-app",
+      "final_impact": 221.93,
+      "total_shipping": 280.3,
+      "total_reviews": 0,
+      "base_impact": 182.19,
+      "core_touch_ratio": 0.249,
+      "core_multiplier": 1.075,
+      "active_weeks": 8,
+      "consistency_bonus": 1.133,
+      "pr_count": 99,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 45534,
+          "title": "ci(backend): remove Rust and Node.js install steps from django job",
+          "url": "https://github.com/PostHog/posthog/pull/45534",
+          "pr_shipping": 7.46,
+          "complexity": 6.77,
+          "discussion": 0.69
+        },
+        {
+          "number": 44767,
+          "title": "fix(mcp): add rate limiting and retry logic to prevent API 429 errors",
+          "url": "https://github.com/PostHog/posthog/pull/44767",
+          "pr_shipping": 6.97,
+          "complexity": 6.0,
+          "discussion": 0.98
+        },
+        {
+          "number": 48305,
+          "title": "fix(ci): Configure PostgreSQL for Dagster test event storage",
+          "url": "https://github.com/PostHog/posthog/pull/48305",
+          "pr_shipping": 6.14,
+          "complexity": 5.52,
+          "discussion": 0.62
+        }
+      ]
+    },
+    {
+      "login": "odin-posthog",
+      "final_impact": 221.28,
+      "total_shipping": 145.08,
+      "total_reviews": 169.68,
+      "base_impact": 153.69,
+      "core_touch_ratio": 0.84,
+      "core_multiplier": 1.252,
+      "active_weeks": 9,
+      "consistency_bonus": 1.15,
+      "pr_count": 31,
+      "review_count": 36,
+      "top_prs": [
+        {
+          "number": 43370,
+          "title": "feat(workflows): Add workflow templates",
+          "url": "https://github.com/PostHog/posthog/pull/43370",
+          "pr_shipping": 8.85,
+          "complexity": 7.77,
+          "discussion": 1.08
+        },
+        {
+          "number": 45163,
+          "title": "feat(workflows): Store official workflow templates in code instead of DB",
+          "url": "https://github.com/PostHog/posthog/pull/45163",
+          "pr_shipping": 8.62,
+          "complexity": 8.0,
+          "discussion": 0.62
+        },
+        {
+          "number": 42835,
+          "title": "feat(workflows): Track workflow e2e lag in metrics",
+          "url": "https://github.com/PostHog/posthog/pull/42835",
+          "pr_shipping": 6.97,
+          "complexity": 6.21,
+          "discussion": 0.77
+        }
+      ]
+    },
+    {
+      "login": "mp-hog",
+      "final_impact": 216.28,
+      "total_shipping": 181.67,
+      "total_reviews": 90.49,
+      "base_impact": 149.76,
+      "core_touch_ratio": 0.914,
+      "core_multiplier": 1.274,
+      "active_weeks": 8,
+      "consistency_bonus": 1.133,
+      "pr_count": 39,
+      "review_count": 22,
+      "top_prs": [
+        {
+          "number": 48177,
+          "title": "feat(experiments): wizard / guided creation form",
+          "url": "https://github.com/PostHog/posthog/pull/48177",
+          "pr_shipping": 8.64,
+          "complexity": 7.81,
+          "discussion": 0.83
+        },
+        {
+          "number": 44555,
+          "title": "feat(experiments): Simplify experiments creation form",
+          "url": "https://github.com/PostHog/posthog/pull/44555",
+          "pr_shipping": 8.07,
+          "complexity": 7.05,
+          "discussion": 1.02
+        },
+        {
+          "number": 46591,
+          "title": "refactor(experiments): Ship new simplified form and cleanup unused code",
+          "url": "https://github.com/PostHog/posthog/pull/46591",
+          "pr_shipping": 8.03,
+          "complexity": 7.62,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "benjackwhite",
+      "final_impact": 205.5,
+      "total_shipping": 165.36,
+      "total_reviews": 137.25,
+      "base_impact": 155.52,
+      "core_touch_ratio": 0.442,
+      "core_multiplier": 1.133,
+      "active_weeks": 10,
+      "consistency_bonus": 1.167,
+      "pr_count": 31,
+      "review_count": 34,
+      "top_prs": [
+        {
+          "number": 44037,
+          "title": "chore: Rename plugin-server to nodejs",
+          "url": "https://github.com/PostHog/posthog/pull/44037",
+          "pr_shipping": 11.55,
+          "complexity": 10.89,
+          "discussion": 0.66
+        },
+        {
+          "number": 43930,
+          "title": "feat: Remove plugins finally",
+          "url": "https://github.com/PostHog/posthog/pull/43930",
+          "pr_shipping": 10.6,
+          "complexity": 10.18,
+          "discussion": 0.42
+        },
+        {
+          "number": 40415,
+          "title": "feat: Hedgehog mode V2",
+          "url": "https://github.com/PostHog/posthog/pull/40415",
+          "pr_shipping": 10.3,
+          "complexity": 9.25,
+          "discussion": 1.06
+        }
+      ]
+    },
+    {
+      "login": "tomasfarias",
+      "final_impact": 203.75,
+      "total_shipping": 134.47,
+      "total_reviews": 136.19,
+      "base_impact": 135.07,
+      "core_touch_ratio": 0.977,
+      "core_multiplier": 1.293,
+      "active_weeks": 10,
+      "consistency_bonus": 1.167,
+      "pr_count": 42,
+      "review_count": 29,
+      "top_prs": [
+        {
+          "number": 43295,
+          "title": "refactor: Spawn multiple consumers in bigquery batch export ",
+          "url": "https://github.com/PostHog/posthog/pull/43295",
+          "pr_shipping": 6.26,
+          "complexity": 5.51,
+          "discussion": 0.75
+        },
+        {
+          "number": 49032,
+          "title": "fix: s3 batch export additional validation",
+          "url": "https://github.com/PostHog/posthog/pull/49032",
+          "pr_shipping": 5.9,
+          "complexity": 5.28,
+          "discussion": 0.62
+        },
+        {
+          "number": 43038,
+          "title": "fix: Raise non-retryable exception on invalid filter",
+          "url": "https://github.com/PostHog/posthog/pull/43038",
+          "pr_shipping": 5.25,
+          "complexity": 4.76,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "fuziontech",
+      "final_impact": 203.34,
+      "total_shipping": 178.6,
+      "total_reviews": 59.87,
+      "base_impact": 137.04,
+      "core_touch_ratio": 0.846,
+      "core_multiplier": 1.254,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 47,
+      "review_count": 13,
+      "top_prs": [
+        {
+          "number": 46324,
+          "title": "feat(ducklake): add Dagster jobs for backfilling events and persons to customer ducklings",
+          "url": "https://github.com/PostHog/posthog/pull/46324",
+          "pr_shipping": 7.75,
+          "complexity": 6.79,
+          "discussion": 0.97
+        },
+        {
+          "number": 42754,
+          "title": "feat: add DuckLake compaction workflow for temporal-worker-ducklake",
+          "url": "https://github.com/PostHog/posthog/pull/42754",
+          "pr_shipping": 6.57,
+          "complexity": 5.88,
+          "discussion": 0.69
+        },
+        {
+          "number": 48361,
+          "title": "Revert \"feat: taxonomic filter typeahead for screen and url without choosing event\"",
+          "url": "https://github.com/PostHog/posthog/pull/48361",
+          "pr_shipping": 6.57,
+          "complexity": 6.24,
+          "discussion": 0.33
+        }
+      ]
+    },
+    {
+      "login": "posthog-js-upgrader",
+      "final_impact": 194.25,
+      "total_shipping": 207.57,
+      "total_reviews": 4.41,
+      "base_impact": 136.47,
+      "core_touch_ratio": 0.676,
+      "core_multiplier": 1.203,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 39,
+      "review_count": 1,
+      "top_prs": [
+        {
+          "number": 47633,
+          "title": "chore(deps): Update posthog-js to 1.345.5",
+          "url": "https://github.com/PostHog/posthog/pull/47633",
+          "pr_shipping": 6.89,
+          "complexity": 6.56,
+          "discussion": 0.33
+        },
+        {
+          "number": 44818,
+          "title": "chore(deps): Update posthog-js to 1.319.0",
+          "url": "https://github.com/PostHog/posthog/pull/44818",
+          "pr_shipping": 6.3,
+          "complexity": 6.09,
+          "discussion": 0.21
+        },
+        {
+          "number": 45689,
+          "title": "chore(deps): Update posthog-js to 1.334.0",
+          "url": "https://github.com/PostHog/posthog/pull/45689",
+          "pr_shipping": 6.15,
+          "complexity": 5.83,
+          "discussion": 0.33
+        }
+      ]
+    },
+    {
+      "login": "dustinbyrne",
+      "final_impact": 182.66,
+      "total_shipping": 87.14,
+      "total_reviews": 195.22,
+      "base_impact": 124.97,
+      "core_touch_ratio": 0.965,
+      "core_multiplier": 1.29,
+      "active_weeks": 8,
+      "consistency_bonus": 1.133,
+      "pr_count": 19,
+      "review_count": 45,
+      "top_prs": [
+        {
+          "number": 42102,
+          "title": "feat(cohorts): Display calculation errors to end-users",
+          "url": "https://github.com/PostHog/posthog/pull/42102",
+          "pr_shipping": 7.1,
+          "complexity": 6.27,
+          "discussion": 0.83
+        },
+        {
+          "number": 44670,
+          "title": "fix(flags): Missing flag deps cause flags to fail closed",
+          "url": "https://github.com/PostHog/posthog/pull/44670",
+          "pr_shipping": 5.86,
+          "complexity": 5.86,
+          "discussion": 0.0
+        },
+        {
+          "number": 45060,
+          "title": "feat(flags): Update internal dependent flags route",
+          "url": "https://github.com/PostHog/posthog/pull/45060",
+          "pr_shipping": 5.69,
+          "complexity": 4.94,
+          "discussion": 0.75
+        }
+      ]
+    },
+    {
+      "login": "lmenezes",
+      "final_impact": 181.6,
+      "total_shipping": 102.35,
+      "total_reviews": 174.34,
+      "base_impact": 127.55,
+      "core_touch_ratio": 0.981,
+      "core_multiplier": 1.294,
+      "active_weeks": 6,
+      "consistency_bonus": 1.1,
+      "pr_count": 17,
+      "review_count": 40,
+      "top_prs": [
+        {
+          "number": 48788,
+          "title": "refactor: extract prepareEventStep to pipeline step",
+          "url": "https://github.com/PostHog/posthog/pull/48788",
+          "pr_shipping": 8.88,
+          "complexity": 8.19,
+          "discussion": 0.69
+        },
+        {
+          "number": 48197,
+          "title": "refactor: extract person processing into step",
+          "url": "https://github.com/PostHog/posthog/pull/48197",
+          "pr_shipping": 8.71,
+          "complexity": 7.9,
+          "discussion": 0.81
+        },
+        {
+          "number": 47744,
+          "title": "refactor: extract normalize event step",
+          "url": "https://github.com/PostHog/posthog/pull/47744",
+          "pr_shipping": 8.57,
+          "complexity": 7.7,
+          "discussion": 0.87
+        }
+      ]
+    },
+    {
+      "login": "scheduled-actions-posthog",
+      "final_impact": 172.74,
+      "total_shipping": 180.38,
+      "total_reviews": 0,
+      "base_impact": 117.25,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 8,
+      "consistency_bonus": 1.133,
+      "pr_count": 50,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44352,
+          "title": "chore(llma): Update LLM costs",
+          "url": "https://github.com/PostHog/posthog/pull/44352",
+          "pr_shipping": 5.37,
+          "complexity": 5.16,
+          "discussion": 0.21
+        },
+        {
+          "number": 45885,
+          "title": "chore(llma): Update LLM costs",
+          "url": "https://github.com/PostHog/posthog/pull/45885",
+          "pr_shipping": 5.37,
+          "complexity": 4.83,
+          "discussion": 0.54
+        },
+        {
+          "number": 47180,
+          "title": "chore(llma): Update LLM costs",
+          "url": "https://github.com/PostHog/posthog/pull/47180",
+          "pr_shipping": 5.11,
+          "complexity": 4.69,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "EDsCODE",
+      "final_impact": 165.64,
+      "total_shipping": 62.48,
+      "total_reviews": 199.9,
+      "base_impact": 110.58,
+      "core_touch_ratio": 0.946,
+      "core_multiplier": 1.284,
+      "active_weeks": 10,
+      "consistency_bonus": 1.167,
+      "pr_count": 17,
+      "review_count": 47,
+      "top_prs": [
+        {
+          "number": 45739,
+          "title": "feat(ducklake): add per-team DuckLakeCatalog model",
+          "url": "https://github.com/PostHog/posthog/pull/45739",
+          "pr_shipping": 7.61,
+          "complexity": 6.71,
+          "discussion": 0.9
+        },
+        {
+          "number": 48949,
+          "title": "feat(ducklake): add DuckgresServer model for per-team duckgres credentials",
+          "url": "https://github.com/PostHog/posthog/pull/48949",
+          "pr_shipping": 6.23,
+          "complexity": 5.57,
+          "discussion": 0.66
+        },
+        {
+          "number": 41715,
+          "title": "chore(materialization): refactor to dedicated endpoint",
+          "url": "https://github.com/PostHog/posthog/pull/41715",
+          "pr_shipping": 6.21,
+          "complexity": 5.73,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "georgemunyoro",
+      "final_impact": 161.94,
+      "total_shipping": 110.65,
+      "total_reviews": 164.85,
+      "base_impact": 129.62,
+      "core_touch_ratio": 0.341,
+      "core_multiplier": 1.102,
+      "active_weeks": 8,
+      "consistency_bonus": 1.133,
+      "pr_count": 18,
+      "review_count": 40,
+      "top_prs": [
+        {
+          "number": 46146,
+          "title": "feat(hogql): add support for recursive CTEs",
+          "url": "https://github.com/PostHog/posthog/pull/46146",
+          "pr_shipping": 9.88,
+          "complexity": 8.98,
+          "discussion": 0.9
+        },
+        {
+          "number": 45785,
+          "title": "feat(hogql): postgres style casts",
+          "url": "https://github.com/PostHog/posthog/pull/45785",
+          "pr_shipping": 9.54,
+          "complexity": 8.73,
+          "discussion": 0.81
+        },
+        {
+          "number": 48521,
+          "title": "feat(hogql): cte column name list",
+          "url": "https://github.com/PostHog/posthog/pull/48521",
+          "pr_shipping": 9.23,
+          "complexity": 8.41,
+          "discussion": 0.81
+        }
+      ]
+    },
+    {
+      "login": "MarconLP",
+      "final_impact": 161.32,
+      "total_shipping": 115.08,
+      "total_reviews": 107.14,
+      "base_impact": 112.3,
+      "core_touch_ratio": 0.955,
+      "core_multiplier": 1.286,
+      "active_weeks": 7,
+      "consistency_bonus": 1.117,
+      "pr_count": 19,
+      "review_count": 26,
+      "top_prs": [
+        {
+          "number": 48239,
+          "title": "feat(dwh): coming soon sources",
+          "url": "https://github.com/PostHog/posthog/pull/48239",
+          "pr_shipping": 11.06,
+          "complexity": 10.4,
+          "discussion": 0.66
+        },
+        {
+          "number": 41641,
+          "title": "feat: data warehouse powered destinations",
+          "url": "https://github.com/PostHog/posthog/pull/41641",
+          "pr_shipping": 8.15,
+          "complexity": 7.38,
+          "discussion": 0.77
+        },
+        {
+          "number": 48018,
+          "title": "feat(dwh): linear.app source",
+          "url": "https://github.com/PostHog/posthog/pull/48018",
+          "pr_shipping": 7.65,
+          "complexity": 6.67,
+          "discussion": 0.98
+        }
+      ]
+    },
+    {
+      "login": "ordehi",
+      "final_impact": 160.74,
+      "total_shipping": 159.03,
+      "total_reviews": 3.62,
+      "base_impact": 104.64,
+      "core_touch_ratio": 0.994,
+      "core_multiplier": 1.298,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 38,
+      "review_count": 1,
+      "top_prs": [
+        {
+          "number": 43093,
+          "title": "feat: product tours UI",
+          "url": "https://github.com/PostHog/posthog/pull/43093",
+          "pr_shipping": 8.74,
+          "complexity": 7.91,
+          "discussion": 0.83
+        },
+        {
+          "number": 43251,
+          "title": "feat: Add recurring scheduled flag changes",
+          "url": "https://github.com/PostHog/posthog/pull/43251",
+          "pr_shipping": 7.55,
+          "complexity": 6.65,
+          "discussion": 0.9
+        },
+        {
+          "number": 44076,
+          "title": "feat(surveys): add response length validation for open text questions",
+          "url": "https://github.com/PostHog/posthog/pull/44076",
+          "pr_shipping": 7.17,
+          "complexity": 6.17,
+          "discussion": 1.0
+        }
+      ]
+    },
+    {
+      "login": "jonathanlab",
+      "final_impact": 160.22,
+      "total_shipping": 26.59,
+      "total_reviews": 299.96,
+      "base_impact": 122.27,
+      "core_touch_ratio": 0.358,
+      "core_multiplier": 1.107,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 6,
+      "review_count": 58,
+      "top_prs": [
+        {
+          "number": 45908,
+          "title": "feat(gateway): rename array product to twig",
+          "url": "https://github.com/PostHog/posthog/pull/45908",
+          "pr_shipping": 6.3,
+          "complexity": 5.61,
+          "discussion": 0.69
+        },
+        {
+          "number": 45907,
+          "title": "feat(twig): restrict available models for twig",
+          "url": "https://github.com/PostHog/posthog/pull/45907",
+          "pr_shipping": 5.07,
+          "complexity": 4.49,
+          "discussion": 0.58
+        },
+        {
+          "number": 45023,
+          "title": "feat(llm gateway): add product to prometheus",
+          "url": "https://github.com/PostHog/posthog/pull/45023",
+          "pr_shipping": 4.61,
+          "complexity": 4.4,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "richardsolomou",
+      "final_impact": 159.67,
+      "total_shipping": 135.28,
+      "total_reviews": 72.02,
+      "base_impact": 113.14,
+      "core_touch_ratio": 0.879,
+      "core_multiplier": 1.264,
+      "active_weeks": 7,
+      "consistency_bonus": 1.117,
+      "pr_count": 24,
+      "review_count": 26,
+      "top_prs": [
+        {
+          "number": 46367,
+          "title": "feat(llm-analytics): add onboarding guides and subcategory tabs for LLM SDKs",
+          "url": "https://github.com/PostHog/posthog/pull/46367",
+          "pr_shipping": 10.1,
+          "complexity": 9.18,
+          "discussion": 0.91
+        },
+        {
+          "number": 47987,
+          "title": "fix(llm-analytics): re-apply tab-aware changes with bug fix",
+          "url": "https://github.com/PostHog/posthog/pull/47987",
+          "pr_shipping": 8.56,
+          "complexity": 7.71,
+          "discussion": 0.85
+        },
+        {
+          "number": 45256,
+          "title": "feat(llma): add time to first token reporting",
+          "url": "https://github.com/PostHog/posthog/pull/45256",
+          "pr_shipping": 8.35,
+          "complexity": 7.45,
+          "discussion": 0.9
+        }
+      ]
+    },
+    {
+      "login": "pawel-cebula",
+      "final_impact": 159.43,
+      "total_shipping": 99.32,
+      "total_reviews": 113.01,
+      "base_impact": 104.11,
+      "core_touch_ratio": 0.98,
+      "core_multiplier": 1.294,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 27,
+      "review_count": 25,
+      "top_prs": [
+        {
+          "number": 43662,
+          "title": "feat: quota limiting for workflows",
+          "url": "https://github.com/PostHog/posthog/pull/43662",
+          "pr_shipping": 7.15,
+          "complexity": 6.73,
+          "discussion": 0.42
+        },
+        {
+          "number": 42690,
+          "title": "feat: start onboarding with coupon claim",
+          "url": "https://github.com/PostHog/posthog/pull/42690",
+          "pr_shipping": 6.53,
+          "complexity": 6.05,
+          "discussion": 0.48
+        },
+        {
+          "number": 45596,
+          "title": "feat: usage product display formatting on billing page",
+          "url": "https://github.com/PostHog/posthog/pull/45596",
+          "pr_shipping": 6.42,
+          "complexity": 5.67,
+          "discussion": 0.75
+        }
+      ]
+    },
+    {
+      "login": "luke-belton",
+      "final_impact": 152.9,
+      "total_shipping": 143.18,
+      "total_reviews": 22.75,
+      "base_impact": 101.03,
+      "core_touch_ratio": 0.93,
+      "core_multiplier": 1.279,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 40,
+      "review_count": 7,
+      "top_prs": [
+        {
+          "number": 45012,
+          "title": "feat: Improve impersonation notice",
+          "url": "https://github.com/PostHog/posthog/pull/45012",
+          "pr_shipping": 8.21,
+          "complexity": 7.44,
+          "discussion": 0.77
+        },
+        {
+          "number": 45044,
+          "title": "feat: Upgrade to read-write impersonation",
+          "url": "https://github.com/PostHog/posthog/pull/45044",
+          "pr_shipping": 7.84,
+          "complexity": 7.07,
+          "discussion": 0.77
+        },
+        {
+          "number": 45112,
+          "title": "feat: Minimize impersonation notice",
+          "url": "https://github.com/PostHog/posthog/pull/45112",
+          "pr_shipping": 6.62,
+          "complexity": 6.2,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "fercgomes",
+      "final_impact": 131.17,
+      "total_shipping": 69.17,
+      "total_reviews": 137.65,
+      "base_impact": 93.14,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 5,
+      "consistency_bonus": 1.083,
+      "pr_count": 14,
+      "review_count": 35,
+      "top_prs": [
+        {
+          "number": 47819,
+          "title": "feat(toolbar): add OAuth backend infrastructure",
+          "url": "https://github.com/PostHog/posthog/pull/47819",
+          "pr_shipping": 8.77,
+          "complexity": 7.81,
+          "discussion": 0.97
+        },
+        {
+          "number": 48913,
+          "title": "fix(toolbar): main app bundle bugfix",
+          "url": "https://github.com/PostHog/posthog/pull/48913",
+          "pr_shipping": 6.98,
+          "complexity": 6.5,
+          "discussion": 0.48
+        },
+        {
+          "number": 47989,
+          "title": "feat: add jump to timestamp option",
+          "url": "https://github.com/PostHog/posthog/pull/47989",
+          "pr_shipping": 6.7,
+          "complexity": 6.16,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "aspicer",
+      "final_impact": 127.13,
+      "total_shipping": 93.19,
+      "total_reviews": 71.38,
+      "base_impact": 85.56,
+      "core_touch_ratio": 0.912,
+      "core_multiplier": 1.274,
+      "active_weeks": 10,
+      "consistency_bonus": 1.167,
+      "pr_count": 19,
+      "review_count": 17,
+      "top_prs": [
+        {
+          "number": 48817,
+          "title": "chore: move event definitions tables to a product",
+          "url": "https://github.com/PostHog/posthog/pull/48817",
+          "pr_shipping": 9.51,
+          "complexity": 8.97,
+          "discussion": 0.54
+        },
+        {
+          "number": 42019,
+          "title": "feat: Add MaterializedColumnSlot model, migration, and API",
+          "url": "https://github.com/PostHog/posthog/pull/42019",
+          "pr_shipping": 8.87,
+          "complexity": 8.01,
+          "discussion": 0.87
+        },
+        {
+          "number": 42450,
+          "title": "feat: schema ingestion block",
+          "url": "https://github.com/PostHog/posthog/pull/42450",
+          "pr_shipping": 8.52,
+          "complexity": 7.56,
+          "discussion": 0.97
+        }
+      ]
+    },
+    {
+      "login": "Daesgar",
+      "final_impact": 125.67,
+      "total_shipping": 65.93,
+      "total_reviews": 116.54,
+      "base_impact": 83.65,
+      "core_touch_ratio": 0.899,
+      "core_multiplier": 1.27,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 19,
+      "review_count": 24,
+      "top_prs": [
+        {
+          "number": 47879,
+          "title": "chore: align all events_recent table in all environments",
+          "url": "https://github.com/PostHog/posthog/pull/47879",
+          "pr_shipping": 6.64,
+          "complexity": 6.01,
+          "discussion": 0.62
+        },
+        {
+          "number": 46709,
+          "title": "chore: shard events_recent table",
+          "url": "https://github.com/PostHog/posthog/pull/46709",
+          "pr_shipping": 6.27,
+          "complexity": 5.73,
+          "discussion": 0.54
+        },
+        {
+          "number": 45356,
+          "title": "chore: change consumer groups used for US deployment",
+          "url": "https://github.com/PostHog/posthog/pull/45356",
+          "pr_shipping": 5.57,
+          "complexity": 5.03,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "matheus-vb",
+      "final_impact": 116.46,
+      "total_shipping": 78.17,
+      "total_reviews": 87.53,
+      "base_impact": 81.44,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 6,
+      "consistency_bonus": 1.1,
+      "pr_count": 15,
+      "review_count": 20,
+      "top_prs": [
+        {
+          "number": 45253,
+          "title": "feat: make Rust read configs from Hypercache instead of rebuild",
+          "url": "https://github.com/PostHog/posthog/pull/45253",
+          "pr_shipping": 8.49,
+          "complexity": 7.57,
+          "discussion": 0.93
+        },
+        {
+          "number": 47457,
+          "title": "chore(flags): decouple large flag processing with rayon",
+          "url": "https://github.com/PostHog/posthog/pull/47457",
+          "pr_shipping": 7.47,
+          "complexity": 6.93,
+          "discussion": 0.54
+        },
+        {
+          "number": 46712,
+          "title": "feat(flags): dual thread pool architecture",
+          "url": "https://github.com/PostHog/posthog/pull/46712",
+          "pr_shipping": 6.8,
+          "complexity": 6.26,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "patricio-posthog",
+      "final_impact": 109.46,
+      "total_shipping": 46.12,
+      "total_reviews": 129.22,
+      "base_impact": 75.2,
+      "core_touch_ratio": 0.767,
+      "core_multiplier": 1.23,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 10,
+      "review_count": 35,
+      "top_prs": [
+        {
+          "number": 48818,
+          "title": "chore(flags): deprecate rollout_percentage column from FeatureFlag model",
+          "url": "https://github.com/PostHog/posthog/pull/48818",
+          "pr_shipping": 6.43,
+          "complexity": 6.01,
+          "discussion": 0.42
+        },
+        {
+          "number": 47337,
+          "title": "docs(flags): rust service overview & more",
+          "url": "https://github.com/PostHog/posthog/pull/47337",
+          "pr_shipping": 6.09,
+          "complexity": 5.46,
+          "discussion": 0.62
+        },
+        {
+          "number": 47639,
+          "title": "chore(flags): migrate payload from json obj 2 str",
+          "url": "https://github.com/PostHog/posthog/pull/47639",
+          "pr_shipping": 5.43,
+          "complexity": 4.66,
+          "discussion": 0.77
+        }
+      ]
+    },
+    {
+      "login": "timgl",
+      "final_impact": 98.58,
+      "total_shipping": 38.57,
+      "total_reviews": 127.89,
+      "base_impact": 69.83,
+      "core_touch_ratio": 0.819,
+      "core_multiplier": 1.246,
+      "active_weeks": 8,
+      "consistency_bonus": 1.133,
+      "pr_count": 9,
+      "review_count": 40,
+      "top_prs": [
+        {
+          "number": 48654,
+          "title": "feat(search): add Ask PostHog AI as first result",
+          "url": "https://github.com/PostHog/posthog/pull/48654",
+          "pr_shipping": 6.95,
+          "complexity": 6.37,
+          "discussion": 0.58
+        },
+        {
+          "number": 46778,
+          "title": "feat(insights): default to all events when no $pageview or $screen events exist",
+          "url": "https://github.com/PostHog/posthog/pull/46778",
+          "pr_shipping": 6.18,
+          "complexity": 5.64,
+          "discussion": 0.54
+        },
+        {
+          "number": 44588,
+          "title": "chore: Add system annotation for wrong person properties",
+          "url": "https://github.com/PostHog/posthog/pull/44588",
+          "pr_shipping": 5.15,
+          "complexity": 4.66,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "posthog-bot",
+      "final_impact": 87.8,
+      "total_shipping": 118.01,
+      "total_reviews": 0,
+      "base_impact": 76.71,
+      "core_touch_ratio": 0.243,
+      "core_multiplier": 1.073,
+      "active_weeks": 4,
+      "consistency_bonus": 1.067,
+      "pr_count": 31,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 42722,
+          "title": "chore(deps): Update posthog-js to 1.301.2",
+          "url": "https://github.com/PostHog/posthog/pull/42722",
+          "pr_shipping": 5.4,
+          "complexity": 4.98,
+          "discussion": 0.42
+        },
+        {
+          "number": 42153,
+          "title": "refactor: \ud83e\udd16 Update bot IPs from GoodBots repository",
+          "url": "https://github.com/PostHog/posthog/pull/42153",
+          "pr_shipping": 4.84,
+          "complexity": 4.31,
+          "discussion": 0.54
+        },
+        {
+          "number": 42823,
+          "title": "chore(deps): Update posthog-js to 1.302.1",
+          "url": "https://github.com/PostHog/posthog/pull/42823",
+          "pr_shipping": 4.83,
+          "complexity": 4.41,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "daibhin",
+      "final_impact": 87.47,
+      "total_shipping": 52.32,
+      "total_reviews": 88.8,
+      "base_impact": 65.09,
+      "core_touch_ratio": 0.933,
+      "core_multiplier": 1.28,
+      "active_weeks": 3,
+      "consistency_bonus": 1.05,
+      "pr_count": 10,
+      "review_count": 19,
+      "top_prs": [
+        {
+          "number": 43492,
+          "title": "chore: abstract ingestion control triggers",
+          "url": "https://github.com/PostHog/posthog/pull/43492",
+          "pr_shipping": 8.12,
+          "complexity": 7.29,
+          "discussion": 0.83
+        },
+        {
+          "number": 43302,
+          "title": "chore: abstract replay triggers",
+          "url": "https://github.com/PostHog/posthog/pull/43302",
+          "pr_shipping": 7.48,
+          "complexity": 6.69,
+          "discussion": 0.79
+        },
+        {
+          "number": 42500,
+          "title": "feat: share supported platforms",
+          "url": "https://github.com/PostHog/posthog/pull/42500",
+          "pr_shipping": 6.53,
+          "complexity": 5.6,
+          "discussion": 0.93
+        }
+      ]
+    },
+    {
+      "login": "abhischekt",
+      "final_impact": 86.01,
+      "total_shipping": 70.97,
+      "total_reviews": 39.94,
+      "base_impact": 60.11,
+      "core_touch_ratio": 0.938,
+      "core_multiplier": 1.281,
+      "active_weeks": 7,
+      "consistency_bonus": 1.117,
+      "pr_count": 14,
+      "review_count": 13,
+      "top_prs": [
+        {
+          "number": 48073,
+          "title": "feat(salesforce): add usage signals enrichment workflow",
+          "url": "https://github.com/PostHog/posthog/pull/48073",
+          "pr_shipping": 7.62,
+          "complexity": 6.9,
+          "discussion": 0.72
+        },
+        {
+          "number": 45266,
+          "title": "feat(dagster): ship JobSwitchers_v3 dataset to Clay webhook",
+          "url": "https://github.com/PostHog/posthog/pull/45266",
+          "pr_shipping": 7.28,
+          "complexity": 6.49,
+          "discussion": 0.79
+        },
+        {
+          "number": 46140,
+          "title": "feat(billing): add product-led outbound targets DAG",
+          "url": "https://github.com/PostHog/posthog/pull/46140",
+          "pr_shipping": 6.89,
+          "complexity": 6.69,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "z0br0wn",
+      "final_impact": 84.61,
+      "total_shipping": 69.21,
+      "total_reviews": 45.79,
+      "base_impact": 61.01,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 4,
+      "consistency_bonus": 1.067,
+      "pr_count": 12,
+      "review_count": 12,
+      "top_prs": [
+        {
+          "number": 47877,
+          "title": "chore(session-recording): add parse message step",
+          "url": "https://github.com/PostHog/posthog/pull/47877",
+          "pr_shipping": 7.45,
+          "complexity": 6.57,
+          "discussion": 0.88
+        },
+        {
+          "number": 48811,
+          "title": "chore(session-replay): record session step",
+          "url": "https://github.com/PostHog/posthog/pull/48811",
+          "pr_shipping": 7.23,
+          "complexity": 6.65,
+          "discussion": 0.58
+        },
+        {
+          "number": 47472,
+          "title": "chore(session-recording): add e2e integration tests",
+          "url": "https://github.com/PostHog/posthog/pull/47472",
+          "pr_shipping": 7.1,
+          "complexity": 6.36,
+          "discussion": 0.75
+        }
+      ]
+    },
+    {
+      "login": "dependabot",
+      "final_impact": 78.18,
+      "total_shipping": 102.08,
+      "total_reviews": 0,
+      "base_impact": 66.35,
+      "core_touch_ratio": 0.292,
+      "core_multiplier": 1.088,
+      "active_weeks": 5,
+      "consistency_bonus": 1.083,
+      "pr_count": 28,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44961,
+          "title": "chore(deps): bump sqlparse from 0.4.4 to 0.5.0",
+          "url": "https://github.com/PostHog/posthog/pull/44961",
+          "pr_shipping": 9.44,
+          "complexity": 8.72,
+          "discussion": 0.72
+        },
+        {
+          "number": 47240,
+          "title": "chore(deps): bump astral-sh/setup-uv from 7.2.0 to 7.3.0",
+          "url": "https://github.com/PostHog/posthog/pull/47240",
+          "pr_shipping": 7.23,
+          "complexity": 6.82,
+          "discussion": 0.42
+        },
+        {
+          "number": 45201,
+          "title": "chore(deps): remove black dev dependency",
+          "url": "https://github.com/PostHog/posthog/pull/45201",
+          "pr_shipping": 6.88,
+          "complexity": 6.46,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "sarahxsanders",
+      "final_impact": 75.93,
+      "total_shipping": 67.89,
+      "total_reviews": 41.33,
+      "base_impact": 58.59,
+      "core_touch_ratio": 0.535,
+      "core_multiplier": 1.16,
+      "active_weeks": 7,
+      "consistency_bonus": 1.117,
+      "pr_count": 11,
+      "review_count": 6,
+      "top_prs": [
+        {
+          "number": 44465,
+          "title": "docs: shared onboarding for product analytics",
+          "url": "https://github.com/PostHog/posthog/pull/44465",
+          "pr_shipping": 10.75,
+          "complexity": 9.66,
+          "discussion": 1.1
+        },
+        {
+          "number": 45521,
+          "title": "feat: move experiments to shared onboarding",
+          "url": "https://github.com/PostHog/posthog/pull/45521",
+          "pr_shipping": 9.23,
+          "complexity": 8.75,
+          "discussion": 0.48
+        },
+        {
+          "number": 46312,
+          "title": "docs: session replay shared onboarding",
+          "url": "https://github.com/PostHog/posthog/pull/46312",
+          "pr_shipping": 8.88,
+          "complexity": 8.07,
+          "discussion": 0.81
+        }
+      ]
+    },
+    {
+      "login": "clr182",
+      "final_impact": 70.69,
+      "total_shipping": 65.8,
+      "total_reviews": 12.9,
+      "base_impact": 47.28,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 9,
+      "consistency_bonus": 1.15,
+      "pr_count": 17,
+      "review_count": 6,
+      "top_prs": [
+        {
+          "number": 48199,
+          "title": "fix: revert row limit",
+          "url": "https://github.com/PostHog/posthog/pull/48199",
+          "pr_shipping": 10.57,
+          "complexity": 10.09,
+          "discussion": 0.48
+        },
+        {
+          "number": 44640,
+          "title": "fix: has_recording to $has_recording",
+          "url": "https://github.com/PostHog/posthog/pull/44640",
+          "pr_shipping": 7.22,
+          "complexity": 6.73,
+          "discussion": 0.48
+        },
+        {
+          "number": 48601,
+          "title": "feat: add filtering and clean up of page and put behind a FF",
+          "url": "https://github.com/PostHog/posthog/pull/48601",
+          "pr_shipping": 6.54,
+          "complexity": 6.13,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "bill-ph",
+      "final_impact": 64.2,
+      "total_shipping": 49.91,
+      "total_reviews": 38.21,
+      "base_impact": 45.82,
+      "core_touch_ratio": 0.978,
+      "core_multiplier": 1.293,
+      "active_weeks": 5,
+      "consistency_bonus": 1.083,
+      "pr_count": 9,
+      "review_count": 9,
+      "top_prs": [
+        {
+          "number": 42231,
+          "title": "feat(ducklake): Implement DuckLake copy verification workflow",
+          "url": "https://github.com/PostHog/posthog/pull/42231",
+          "pr_shipping": 7.59,
+          "complexity": 6.89,
+          "discussion": 0.69
+        },
+        {
+          "number": 42862,
+          "title": "feat(ducklake): copy data_imports result to Ducklake in local dev",
+          "url": "https://github.com/PostHog/posthog/pull/42862",
+          "pr_shipping": 7.28,
+          "complexity": 6.95,
+          "discussion": 0.33
+        },
+        {
+          "number": 43268,
+          "title": "refactor(ducklake): use same irsa for delta and duck access",
+          "url": "https://github.com/PostHog/posthog/pull/43268",
+          "pr_shipping": 6.97,
+          "complexity": 6.39,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "bciaraldi",
+      "final_impact": 63.63,
+      "total_shipping": 37.88,
+      "total_reviews": 65.76,
+      "base_impact": 47.64,
+      "core_touch_ratio": 0.483,
+      "core_multiplier": 1.145,
+      "active_weeks": 10,
+      "consistency_bonus": 1.167,
+      "pr_count": 12,
+      "review_count": 17,
+      "top_prs": [
+        {
+          "number": 44128,
+          "title": "fix(livestream): fix goroutine leak in session recording stats",
+          "url": "https://github.com/PostHog/posthog/pull/44128",
+          "pr_shipping": 6.38,
+          "complexity": 5.66,
+          "discussion": 0.72
+        },
+        {
+          "number": 47559,
+          "title": "fix: handle non-JSON raw_value in InstanceSetting",
+          "url": "https://github.com/PostHog/posthog/pull/47559",
+          "pr_shipping": 4.44,
+          "complexity": 4.11,
+          "discussion": 0.33
+        },
+        {
+          "number": 46343,
+          "title": "fix(proxy): detect proxy type from target_cname for monitor/delete",
+          "url": "https://github.com/PostHog/posthog/pull/46343",
+          "pr_shipping": 4.11,
+          "complexity": 3.91,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "k11kirky",
+      "final_impact": 58.14,
+      "total_shipping": 51.37,
+      "total_reviews": 25.38,
+      "base_impact": 42.27,
+      "core_touch_ratio": 0.712,
+      "core_multiplier": 1.213,
+      "active_weeks": 8,
+      "consistency_bonus": 1.133,
+      "pr_count": 10,
+      "review_count": 8,
+      "top_prs": [
+        {
+          "number": 46461,
+          "title": "feat: first-party oauth for twig",
+          "url": "https://github.com/PostHog/posthog/pull/46461",
+          "pr_shipping": 7.25,
+          "complexity": 6.48,
+          "discussion": 0.77
+        },
+        {
+          "number": 47583,
+          "title": "feat: signal inbox readiness",
+          "url": "https://github.com/PostHog/posthog/pull/47583",
+          "pr_shipping": 7.1,
+          "complexity": 6.48,
+          "discussion": 0.62
+        },
+        {
+          "number": 43080,
+          "title": "feat: basic initial temporal workflow triggering",
+          "url": "https://github.com/PostHog/posthog/pull/43080",
+          "pr_shipping": 6.92,
+          "complexity": 6.51,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "gewenyu99",
+      "final_impact": 57.88,
+      "total_shipping": 53.13,
+      "total_reviews": 29.26,
+      "base_impact": 44.78,
+      "core_touch_ratio": 0.469,
+      "core_multiplier": 1.141,
+      "active_weeks": 8,
+      "consistency_bonus": 1.133,
+      "pr_count": 8,
+      "review_count": 6,
+      "top_prs": [
+        {
+          "number": 44217,
+          "title": "feat: Feature flags onboarding",
+          "url": "https://github.com/PostHog/posthog/pull/44217",
+          "pr_shipping": 11.16,
+          "complexity": 10.29,
+          "discussion": 0.87
+        },
+        {
+          "number": 42112,
+          "title": "feat: Shared installation instructions \ud83d\ude08",
+          "url": "https://github.com/PostHog/posthog/pull/42112",
+          "pr_shipping": 9.5,
+          "complexity": 8.64,
+          "discussion": 0.87
+        },
+        {
+          "number": 46545,
+          "title": "chore: Error tracking onboarding",
+          "url": "https://github.com/PostHog/posthog/pull/46545",
+          "pr_shipping": 9.44,
+          "complexity": 8.74,
+          "discussion": 0.69
+        }
+      ]
+    },
+    {
+      "login": "marandaneto",
+      "final_impact": 44.71,
+      "total_shipping": 7.71,
+      "total_reviews": 85.98,
+      "base_impact": 35.1,
+      "core_touch_ratio": 0.469,
+      "core_multiplier": 1.141,
+      "active_weeks": 7,
+      "consistency_bonus": 1.117,
+      "pr_count": 2,
+      "review_count": 18,
+      "top_prs": [
+        {
+          "number": 48884,
+          "title": "chore: update remote config versioning for mobile sdks",
+          "url": "https://github.com/PostHog/posthog/pull/48884",
+          "pr_shipping": 5.85,
+          "complexity": 4.95,
+          "discussion": 0.9
+        },
+        {
+          "number": 46650,
+          "title": "chore: rename sdk approvers",
+          "url": "https://github.com/PostHog/posthog/pull/46650",
+          "pr_shipping": 1.87,
+          "complexity": 1.66,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "christiaan-ph",
+      "final_impact": 43.6,
+      "total_shipping": 39.06,
+      "total_reviews": 13.27,
+      "base_impact": 30.03,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 7,
+      "consistency_bonus": 1.117,
+      "pr_count": 11,
+      "review_count": 3,
+      "top_prs": [
+        {
+          "number": 49086,
+          "title": "fix(llma): prefer $ai_trace event distinct_id in trace queries",
+          "url": "https://github.com/PostHog/posthog/pull/49086",
+          "pr_shipping": 5.65,
+          "complexity": 5.07,
+          "discussion": 0.58
+        },
+        {
+          "number": 45612,
+          "title": "fix(insights): handle NULL in formula eval for SQL revenue",
+          "url": "https://github.com/PostHog/posthog/pull/45612",
+          "pr_shipping": 5.41,
+          "complexity": 4.93,
+          "discussion": 0.48
+        },
+        {
+          "number": 45055,
+          "title": "chore(web-analytics): add test for path cleaning in web vitals",
+          "url": "https://github.com/PostHog/posthog/pull/45055",
+          "pr_shipping": 4.19,
+          "complexity": 3.7,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "langesven",
+      "final_impact": 43.23,
+      "total_shipping": 12.24,
+      "total_reviews": 78.25,
+      "base_impact": 35.34,
+      "core_touch_ratio": 0.112,
+      "core_multiplier": 1.034,
+      "active_weeks": 11,
+      "consistency_bonus": 1.183,
+      "pr_count": 4,
+      "review_count": 27,
+      "top_prs": [
+        {
+          "number": 43126,
+          "title": "feat(ci): Add comments for the preview deploy",
+          "url": "https://github.com/PostHog/posthog/pull/43126",
+          "pr_shipping": 4.8,
+          "complexity": 4.21,
+          "discussion": 0.58
+        },
+        {
+          "number": 43112,
+          "title": "chore(ci): Switch to AWS OIDC ECR publish",
+          "url": "https://github.com/PostHog/posthog/pull/43112",
+          "pr_shipping": 3.94,
+          "complexity": 3.61,
+          "discussion": 0.33
+        },
+        {
+          "number": 44328,
+          "title": "chore(granian): add way to configure loglevel",
+          "url": "https://github.com/PostHog/posthog/pull/44328",
+          "pr_shipping": 1.98,
+          "complexity": 1.77,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "darkopia",
+      "final_impact": 42.65,
+      "total_shipping": 36.0,
+      "total_reviews": 13.48,
+      "base_impact": 28.12,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 10,
+      "consistency_bonus": 1.167,
+      "pr_count": 12,
+      "review_count": 6,
+      "top_prs": [
+        {
+          "number": 45010,
+          "title": "feat: Add feature flag schedule copying functionality",
+          "url": "https://github.com/PostHog/posthog/pull/45010",
+          "pr_shipping": 6.38,
+          "complexity": 5.57,
+          "discussion": 0.81
+        },
+        {
+          "number": 43210,
+          "title": "fix: allow Personal API Key access to playlist recordings endpoint",
+          "url": "https://github.com/PostHog/posthog/pull/43210",
+          "pr_shipping": 4.18,
+          "complexity": 3.97,
+          "discussion": 0.21
+        },
+        {
+          "number": 46278,
+          "title": "fix: Activity page column results",
+          "url": "https://github.com/PostHog/posthog/pull/46278",
+          "pr_shipping": 4.12,
+          "complexity": 3.64,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "edwinyjlim",
+      "final_impact": 41.29,
+      "total_shipping": 25.27,
+      "total_reviews": 52.63,
+      "base_impact": 34.84,
+      "core_touch_ratio": 0.204,
+      "core_multiplier": 1.061,
+      "active_weeks": 7,
+      "consistency_bonus": 1.117,
+      "pr_count": 8,
+      "review_count": 13,
+      "top_prs": [
+        {
+          "number": 45841,
+          "title": "chore: reduce boilerplate for onboarding docs",
+          "url": "https://github.com/PostHog/posthog/pull/45841",
+          "pr_shipping": 10.79,
+          "complexity": 10.07,
+          "discussion": 0.72
+        },
+        {
+          "number": 44072,
+          "title": "feat: testing changelog flow",
+          "url": "https://github.com/PostHog/posthog/pull/44072",
+          "pr_shipping": 2.55,
+          "complexity": 2.13,
+          "discussion": 0.42
+        },
+        {
+          "number": 43957,
+          "title": "chore: Changelog PR template update",
+          "url": "https://github.com/PostHog/posthog/pull/43957",
+          "pr_shipping": 2.44,
+          "complexity": 2.23,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "raquelmsmith",
+      "final_impact": 40.45,
+      "total_shipping": 39.97,
+      "total_reviews": 12.28,
+      "base_impact": 30.28,
+      "core_touch_ratio": 0.907,
+      "core_multiplier": 1.272,
+      "active_weeks": 3,
+      "consistency_bonus": 1.05,
+      "pr_count": 8,
+      "review_count": 3,
+      "top_prs": [
+        {
+          "number": 46272,
+          "title": "chore: move pipeline tabs to scenes",
+          "url": "https://github.com/PostHog/posthog/pull/46272",
+          "pr_shipping": 9.12,
+          "complexity": 8.28,
+          "discussion": 0.83
+        },
+        {
+          "number": 46455,
+          "title": "feat(warehouse): add variables scene",
+          "url": "https://github.com/PostHog/posthog/pull/46455",
+          "pr_shipping": 8.37,
+          "complexity": 7.65,
+          "discussion": 0.72
+        },
+        {
+          "number": 46469,
+          "title": "feat(notebooks): draggable text node",
+          "url": "https://github.com/PostHog/posthog/pull/46469",
+          "pr_shipping": 6.35,
+          "complexity": 5.81,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "danielxnj",
+      "final_impact": 32.91,
+      "total_shipping": 26.88,
+      "total_reviews": 20.32,
+      "base_impact": 24.58,
+      "core_touch_ratio": 0.723,
+      "core_multiplier": 1.217,
+      "active_weeks": 6,
+      "consistency_bonus": 1.1,
+      "pr_count": 5,
+      "review_count": 6,
+      "top_prs": [
+        {
+          "number": 42602,
+          "title": "feat(infra): Managed reverse proxies with cloudflare",
+          "url": "https://github.com/PostHog/posthog/pull/42602",
+          "pr_shipping": 6.84,
+          "complexity": 6.15,
+          "discussion": 0.69
+        },
+        {
+          "number": 44675,
+          "title": "Revert \"chore: Add stranded migration detection and sync tools for concurrent development\"",
+          "url": "https://github.com/PostHog/posthog/pull/44675",
+          "pr_shipping": 6.57,
+          "complexity": 6.57,
+          "discussion": 0.0
+        },
+        {
+          "number": 47333,
+          "title": "chore: remove managed reverse proxy from paid plans",
+          "url": "https://github.com/PostHog/posthog/pull/47333",
+          "pr_shipping": 6.05,
+          "complexity": 5.22,
+          "discussion": 0.83
+        }
+      ]
+    },
+    {
+      "login": "cvolzer3",
+      "final_impact": 32.45,
+      "total_shipping": 32.71,
+      "total_reviews": 7.18,
+      "base_impact": 23.77,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 3,
+      "consistency_bonus": 1.05,
+      "pr_count": 6,
+      "review_count": 2,
+      "top_prs": [
+        {
+          "number": 46282,
+          "title": "feat(phai): display tool call and results to user",
+          "url": "https://github.com/PostHog/posthog/pull/46282",
+          "pr_shipping": 7.48,
+          "complexity": 6.65,
+          "discussion": 0.83
+        },
+        {
+          "number": 47010,
+          "title": "chore(phai): convert experiments tool",
+          "url": "https://github.com/PostHog/posthog/pull/47010",
+          "pr_shipping": 6.89,
+          "complexity": 6.35,
+          "discussion": 0.54
+        },
+        {
+          "number": 46700,
+          "title": "chore(phai): convert MaxTools for Flags",
+          "url": "https://github.com/PostHog/posthog/pull/46700",
+          "pr_shipping": 6.79,
+          "complexity": 6.17,
+          "discussion": 0.62
+        }
+      ]
+    },
+    {
+      "login": "MichaelKutsch-ph",
+      "final_impact": 31.84,
+      "total_shipping": 15.28,
+      "total_reviews": 50.71,
+      "base_impact": 27.68,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 9,
+      "consistency_bonus": 1.15,
+      "pr_count": 4,
+      "review_count": 13,
+      "top_prs": [
+        {
+          "number": 46799,
+          "title": "fix(hobby): handle detached HEAD in installer",
+          "url": "https://github.com/PostHog/posthog/pull/46799",
+          "pr_shipping": 6.24,
+          "complexity": 5.49,
+          "discussion": 0.75
+        },
+        {
+          "number": 46369,
+          "title": "chore: update dependencies",
+          "url": "https://github.com/PostHog/posthog/pull/46369",
+          "pr_shipping": 3.16,
+          "complexity": 2.54,
+          "discussion": 0.62
+        },
+        {
+          "number": 48430,
+          "title": "chore(revert): update dependencies",
+          "url": "https://github.com/PostHog/posthog/pull/48430",
+          "pr_shipping": 3.02,
+          "complexity": 2.54,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "charlesvien",
+      "final_impact": 29.2,
+      "total_shipping": 18.3,
+      "total_reviews": 22.65,
+      "base_impact": 19.82,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 8,
+      "consistency_bonus": 1.133,
+      "pr_count": 5,
+      "review_count": 7,
+      "top_prs": [
+        {
+          "number": 43349,
+          "title": "feat: Updated oauth validation to allow custom URL schemes",
+          "url": "https://github.com/PostHog/posthog/pull/43349",
+          "pr_shipping": 5.71,
+          "complexity": 4.9,
+          "discussion": 0.81
+        },
+        {
+          "number": 43913,
+          "title": "feat: Implement a success page for oauth native protocol",
+          "url": "https://github.com/PostHog/posthog/pull/43913",
+          "pr_shipping": 3.89,
+          "complexity": 3.57,
+          "discussion": 0.33
+        },
+        {
+          "number": 45751,
+          "title": "feat(twig): Update array deep link to twig",
+          "url": "https://github.com/PostHog/posthog/pull/45751",
+          "pr_shipping": 3.36,
+          "complexity": 3.15,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "slshults",
+      "final_impact": 23.87,
+      "total_shipping": 13.3,
+      "total_reviews": 22.28,
+      "base_impact": 16.44,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 7,
+      "consistency_bonus": 1.117,
+      "pr_count": 3,
+      "review_count": 8,
+      "top_prs": [
+        {
+          "number": 42916,
+          "title": "fix: SDK Doctor - cherry-picked UI tweaks from PR 41875",
+          "url": "https://github.com/PostHog/posthog/pull/42916",
+          "pr_shipping": 5.44,
+          "complexity": 4.75,
+          "discussion": 0.69
+        },
+        {
+          "number": 45642,
+          "title": "chore(sdk-doctor): address PR feedback from #42916",
+          "url": "https://github.com/PostHog/posthog/pull/45642",
+          "pr_shipping": 4.04,
+          "complexity": 3.63,
+          "discussion": 0.42
+        },
+        {
+          "number": 45623,
+          "title": "feat(sdk-doctor): alert when outdated version captures \u226510% of events",
+          "url": "https://github.com/PostHog/posthog/pull/45623",
+          "pr_shipping": 3.82,
+          "complexity": 3.2,
+          "discussion": 0.62
+        }
+      ]
+    },
+    {
+      "login": "mcoll-posthog",
+      "final_impact": 23.86,
+      "total_shipping": 9.65,
+      "total_reviews": 31.25,
+      "base_impact": 17.21,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 4,
+      "consistency_bonus": 1.067,
+      "pr_count": 2,
+      "review_count": 8,
+      "top_prs": [
+        {
+          "number": 42228,
+          "title": "feat: Use privilege escalation to escalate to the owner in update_billing_organization_users",
+          "url": "https://github.com/PostHog/posthog/pull/42228",
+          "pr_shipping": 5.81,
+          "complexity": 5.27,
+          "discussion": 0.54
+        },
+        {
+          "number": 43269,
+          "title": "chore: Create backfill_billing_organization_users management command",
+          "url": "https://github.com/PostHog/posthog/pull/43269",
+          "pr_shipping": 3.84,
+          "complexity": 3.22,
+          "discussion": 0.62
+        }
+      ]
+    },
+    {
+      "login": "lshaowei18",
+      "final_impact": 22.37,
+      "total_shipping": 24.82,
+      "total_reviews": 0,
+      "base_impact": 16.13,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 4,
+      "consistency_bonus": 1.067,
+      "pr_count": 7,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 42752,
+          "title": "fix(permissions): Higher project based or role based permission should be used for effective membership",
+          "url": "https://github.com/PostHog/posthog/pull/42752",
+          "pr_shipping": 7.7,
+          "complexity": 7.05,
+          "discussion": 0.66
+        },
+        {
+          "number": 41796,
+          "title": "fix(analytics): Support `Last Week` date range option",
+          "url": "https://github.com/PostHog/posthog/pull/41796",
+          "pr_shipping": 4.67,
+          "complexity": 4.18,
+          "discussion": 0.48
+        },
+        {
+          "number": 43857,
+          "title": "fix(insight): Cohort name is missing in retention insights with dashboard filters",
+          "url": "https://github.com/PostHog/posthog/pull/43857",
+          "pr_shipping": 3.96,
+          "complexity": 3.43,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "daniloc",
+      "final_impact": 21.24,
+      "total_shipping": 22.71,
+      "total_reviews": 9.43,
+      "base_impact": 18.06,
+      "core_touch_ratio": 0.284,
+      "core_multiplier": 1.085,
+      "active_weeks": 5,
+      "consistency_bonus": 1.083,
+      "pr_count": 5,
+      "review_count": 6,
+      "top_prs": [
+        {
+          "number": 44924,
+          "title": "feat(MCP): skills as resources with one-line install commands",
+          "url": "https://github.com/PostHog/posthog/pull/44924",
+          "pr_shipping": 5.96,
+          "complexity": 5.08,
+          "discussion": 0.88
+        },
+        {
+          "number": 46277,
+          "title": "chore(MCP): Resource passthrough from context mill",
+          "url": "https://github.com/PostHog/posthog/pull/46277",
+          "pr_shipping": 5.37,
+          "complexity": 4.95,
+          "discussion": 0.42
+        },
+        {
+          "number": 45942,
+          "title": "chore(MCP): Update paths for new context origin",
+          "url": "https://github.com/PostHog/posthog/pull/45942",
+          "pr_shipping": 4.26,
+          "complexity": 3.84,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "ioannisj",
+      "final_impact": 20.75,
+      "total_shipping": 19.45,
+      "total_reviews": 10.47,
+      "base_impact": 16.31,
+      "core_touch_ratio": 0.643,
+      "core_multiplier": 1.193,
+      "active_weeks": 4,
+      "consistency_bonus": 1.067,
+      "pr_count": 3,
+      "review_count": 3,
+      "top_prs": [
+        {
+          "number": 48291,
+          "title": "feat(cymbal): dSYM symbolication",
+          "url": "https://github.com/PostHog/posthog/pull/48291",
+          "pr_shipping": 8.04,
+          "complexity": 7.56,
+          "discussion": 0.48
+        },
+        {
+          "number": 43195,
+          "title": "feat(cli): add dsym upload command",
+          "url": "https://github.com/PostHog/posthog/pull/43195",
+          "pr_shipping": 6.92,
+          "complexity": 5.92,
+          "discussion": 1.0
+        },
+        {
+          "number": 42270,
+          "title": "feat(cymbal): add ios raw frame",
+          "url": "https://github.com/PostHog/posthog/pull/42270",
+          "pr_shipping": 4.49,
+          "complexity": 4.07,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "buildwithmalik",
+      "final_impact": 16.2,
+      "total_shipping": 19.03,
+      "total_reviews": 0,
+      "base_impact": 12.37,
+      "core_touch_ratio": 0.893,
+      "core_multiplier": 1.268,
+      "active_weeks": 2,
+      "consistency_bonus": 1.033,
+      "pr_count": 3,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 43977,
+          "title": "feat(batch-exports): Add Azure Blob Storage as batch export destination",
+          "url": "https://github.com/PostHog/posthog/pull/43977",
+          "pr_shipping": 9.68,
+          "complexity": 8.49,
+          "discussion": 1.19
+        },
+        {
+          "number": 44696,
+          "title": "feat(batch-exports): Add Azure Blob Storage destination UI and configuration",
+          "url": "https://github.com/PostHog/posthog/pull/44696",
+          "pr_shipping": 7.83,
+          "complexity": 6.93,
+          "discussion": 0.9
+        },
+        {
+          "number": 43345,
+          "title": "fix(lemon-ui): Add explicit text color to LemonSwitch label",
+          "url": "https://github.com/PostHog/posthog/pull/43345",
+          "pr_shipping": 1.52,
+          "complexity": 1.11,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "abheek9",
+      "final_impact": 13.29,
+      "total_shipping": 9.55,
+      "total_reviews": 10.54,
+      "base_impact": 9.9,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 2,
+      "consistency_bonus": 1.033,
+      "pr_count": 2,
+      "review_count": 2,
+      "top_prs": [
+        {
+          "number": 46439,
+          "title": "feat: onesignal destination from george deglins fork",
+          "url": "https://github.com/PostHog/posthog/pull/46439",
+          "pr_shipping": 6.24,
+          "complexity": 5.71,
+          "discussion": 0.54
+        },
+        {
+          "number": 44110,
+          "title": "chore: adding a product intent for workflows",
+          "url": "https://github.com/PostHog/posthog/pull/44110",
+          "pr_shipping": 3.31,
+          "complexity": 3.1,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "tests-posthog",
+      "final_impact": 12.94,
+      "total_shipping": 18.67,
+      "total_reviews": 0,
+      "base_impact": 12.13,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 4,
+      "consistency_bonus": 1.067,
+      "pr_count": 4,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44585,
+          "title": "chore(hobby): Rebuild hobby installer binary",
+          "url": "https://github.com/PostHog/posthog/pull/44585",
+          "pr_shipping": 5.68,
+          "complexity": 5.35,
+          "discussion": 0.33
+        },
+        {
+          "number": 47236,
+          "title": "chore(ci): update backend test timings",
+          "url": "https://github.com/PostHog/posthog/pull/47236",
+          "pr_shipping": 4.59,
+          "complexity": 4.59,
+          "discussion": 0.0
+        },
+        {
+          "number": 46800,
+          "title": "chore(ci): update backend test timings",
+          "url": "https://github.com/PostHog/posthog/pull/46800",
+          "pr_shipping": 4.36,
+          "complexity": 4.36,
+          "discussion": 0.0
+        }
+      ]
+    },
+    {
+      "login": "gantoine",
+      "final_impact": 11.93,
+      "total_shipping": 8.61,
+      "total_reviews": 17.54,
+      "base_impact": 11.73,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 3,
+      "review_count": 5,
+      "top_prs": [
+        {
+          "number": 48900,
+          "title": "feat(devex): Add hogli man page generation on activate",
+          "url": "https://github.com/PostHog/posthog/pull/48900",
+          "pr_shipping": 4.63,
+          "complexity": 4.42,
+          "discussion": 0.21
+        },
+        {
+          "number": 48887,
+          "title": "fix(ci): Restrict ci-storybook to run on fewer paths",
+          "url": "https://github.com/PostHog/posthog/pull/48887",
+          "pr_shipping": 2.42,
+          "complexity": 1.94,
+          "discussion": 0.48
+        },
+        {
+          "number": 49200,
+          "title": "fix(devex): allow unmatched pattern when formatting yaml",
+          "url": "https://github.com/PostHog/posthog/pull/49200",
+          "pr_shipping": 1.56,
+          "complexity": 1.35,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "danielcarletti",
+      "final_impact": 10.84,
+      "total_shipping": 11.4,
+      "total_reviews": 2.27,
+      "base_impact": 8.2,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 2,
+      "review_count": 1,
+      "top_prs": [
+        {
+          "number": 48938,
+          "title": "feat(pipelines): Added a \"Pull new schemas\" button so users can fetch new schemas without waiting for a new sync",
+          "url": "https://github.com/PostHog/posthog/pull/48938",
+          "pr_shipping": 6.43,
+          "complexity": 5.68,
+          "discussion": 0.75
+        },
+        {
+          "number": 49063,
+          "title": "feat(pipelines): Added a \"Sync now\" button so users can single-handledly sync all schemas",
+          "url": "https://github.com/PostHog/posthog/pull/49063",
+          "pr_shipping": 4.97,
+          "complexity": 4.38,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "zlwaterfield",
+      "final_impact": 7.47,
+      "total_shipping": 8.76,
+      "total_reviews": 0,
+      "base_impact": 5.7,
+      "core_touch_ratio": 0.964,
+      "core_multiplier": 1.289,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 39277,
+          "title": "feat: data warehouse sources access control",
+          "url": "https://github.com/PostHog/posthog/pull/39277",
+          "pr_shipping": 8.76,
+          "complexity": 7.84,
+          "discussion": 0.93
+        }
+      ]
+    },
+    {
+      "login": "dmiska25",
+      "final_impact": 7.32,
+      "total_shipping": 8.52,
+      "total_reviews": 0,
+      "base_impact": 5.54,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 2,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 42898,
+          "title": "fix(dashboards): copy filters, variables, breakdown_colors, and data_color_theme_id when duplicating dashboards",
+          "url": "https://github.com/PostHog/posthog/pull/42898",
+          "pr_shipping": 4.8,
+          "complexity": 4.26,
+          "discussion": 0.54
+        },
+        {
+          "number": 43524,
+          "title": "fix(insights): prevent blank tiles when switching tabs",
+          "url": "https://github.com/PostHog/posthog/pull/43524",
+          "pr_shipping": 3.72,
+          "complexity": 3.14,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "copilot-swe-agent",
+      "final_impact": 6.96,
+      "total_shipping": 8.66,
+      "total_reviews": 0,
+      "base_impact": 5.63,
+      "core_touch_ratio": 0.655,
+      "core_multiplier": 1.196,
+      "active_weeks": 2,
+      "consistency_bonus": 1.033,
+      "pr_count": 2,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44432,
+          "title": "fix: Add snapshot_library to session recording event tracking",
+          "url": "https://github.com/PostHog/posthog/pull/44432",
+          "pr_shipping": 5.18,
+          "complexity": 4.64,
+          "discussion": 0.54
+        },
+        {
+          "number": 43474,
+          "title": "fix: sanitize Redis URL logging to prevent credential leakage and include port for disambiguation",
+          "url": "https://github.com/PostHog/posthog/pull/43474",
+          "pr_shipping": 3.49,
+          "complexity": 2.83,
+          "discussion": 0.66
+        }
+      ]
+    },
+    {
+      "login": "clickhouse-sync-posthog",
+      "final_impact": 6.41,
+      "total_shipping": 9.4,
+      "total_reviews": 0,
+      "base_impact": 6.11,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 3,
+      "consistency_bonus": 1.05,
+      "pr_count": 5,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 45784,
+          "title": "chore(ci): sync ClickHouse versions from infra",
+          "url": "https://github.com/PostHog/posthog/pull/45784",
+          "pr_shipping": 2.01,
+          "complexity": 2.01,
+          "discussion": 0.0
+        },
+        {
+          "number": 47290,
+          "title": "chore(ci): sync ClickHouse versions from infra",
+          "url": "https://github.com/PostHog/posthog/pull/47290",
+          "pr_shipping": 2.01,
+          "complexity": 2.01,
+          "discussion": 0.0
+        },
+        {
+          "number": 47581,
+          "title": "chore(ci): sync ClickHouse versions from infra",
+          "url": "https://github.com/PostHog/posthog/pull/47581",
+          "pr_shipping": 2.01,
+          "complexity": 2.01,
+          "discussion": 0.0
+        }
+      ]
+    },
+    {
+      "login": "abigailbramble",
+      "final_impact": 5.86,
+      "total_shipping": 6.67,
+      "total_reviews": 2.18,
+      "base_impact": 5.1,
+      "core_touch_ratio": 0.313,
+      "core_multiplier": 1.094,
+      "active_weeks": 3,
+      "consistency_bonus": 1.05,
+      "pr_count": 2,
+      "review_count": 1,
+      "top_prs": [
+        {
+          "number": 41822,
+          "title": "chore: Update bug report and feature request links in README",
+          "url": "https://github.com/PostHog/posthog/pull/41822",
+          "pr_shipping": 4.28,
+          "complexity": 3.75,
+          "discussion": 0.54
+        },
+        {
+          "number": 43448,
+          "title": "chore: Support Christmas messaging 2025",
+          "url": "https://github.com/PostHog/posthog/pull/43448",
+          "pr_shipping": 2.39,
+          "complexity": 2.18,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "mircoboettcher",
+      "final_impact": 5.55,
+      "total_shipping": 6.46,
+      "total_reviews": 0,
+      "base_impact": 4.2,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 2,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44637,
+          "title": "fix: Creating a new insight from a dashboard no longer adds it to the dashboard",
+          "url": "https://github.com/PostHog/posthog/pull/44637",
+          "pr_shipping": 3.25,
+          "complexity": 2.77,
+          "discussion": 0.48
+        },
+        {
+          "number": 45131,
+          "title": "feat(surveys): allow custom URL parameters as event properties for public surveys",
+          "url": "https://github.com/PostHog/posthog/pull/45131",
+          "pr_shipping": 3.21,
+          "complexity": 2.46,
+          "discussion": 0.75
+        }
+      ]
+    },
+    {
+      "login": "harihran-del",
+      "final_impact": 5.18,
+      "total_shipping": 5.94,
+      "total_reviews": 0,
+      "base_impact": 3.86,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 2,
+      "consistency_bonus": 1.033,
+      "pr_count": 2,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 47013,
+          "title": "fix: prevent 500 error when insight calculation fails in list view",
+          "url": "https://github.com/PostHog/posthog/pull/47013",
+          "pr_shipping": 3.11,
+          "complexity": 2.62,
+          "discussion": 0.48
+        },
+        {
+          "number": 46980,
+          "title": "fix(ui): fix white text on white background in Heatmaps (Dark Mode)",
+          "url": "https://github.com/PostHog/posthog/pull/46980",
+          "pr_shipping": 2.83,
+          "complexity": 2.35,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "t--becker",
+      "final_impact": 4.93,
+      "total_shipping": 5.74,
+      "total_reviews": 0,
+      "base_impact": 3.73,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 39936,
+          "title": "feat(cdp): Add Kudosity SMS destination template",
+          "url": "https://github.com/PostHog/posthog/pull/39936",
+          "pr_shipping": 5.74,
+          "complexity": 4.95,
+          "discussion": 0.79
+        }
+      ]
+    },
+    {
+      "login": "salmanmkc",
+      "final_impact": 4.63,
+      "total_shipping": 7.01,
+      "total_reviews": 0,
+      "base_impact": 4.56,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 48658,
+          "title": "chore: Upgrade GitHub Actions for Node 24 compatibility",
+          "url": "https://github.com/PostHog/posthog/pull/48658",
+          "pr_shipping": 7.01,
+          "complexity": 6.68,
+          "discussion": 0.33
+        }
+      ]
+    },
+    {
+      "login": "ProCO-RPHopkins",
+      "final_impact": 4.56,
+      "total_shipping": 5.65,
+      "total_reviews": 0,
+      "base_impact": 3.67,
+      "core_touch_ratio": 0.735,
+      "core_multiplier": 1.221,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 41152,
+          "title": "test(mcp): add skipped AJV compile guard for MCP tool input schemas",
+          "url": "https://github.com/PostHog/posthog/pull/41152",
+          "pr_shipping": 5.65,
+          "complexity": 4.84,
+          "discussion": 0.81
+        }
+      ]
+    },
+    {
+      "login": "zhou-quickli",
+      "final_impact": 4.55,
+      "total_shipping": 5.21,
+      "total_reviews": 0,
+      "base_impact": 3.38,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 2,
+      "consistency_bonus": 1.033,
+      "pr_count": 2,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 43994,
+          "title": "perf(data-warehouse): Optimise mongodb connections",
+          "url": "https://github.com/PostHog/posthog/pull/43994",
+          "pr_shipping": 3.85,
+          "complexity": 3.52,
+          "discussion": 0.33
+        },
+        {
+          "number": 43004,
+          "title": "fix(data-warehouse): Allow database users with reduced privileges to list mongo collections",
+          "url": "https://github.com/PostHog/posthog/pull/43004",
+          "pr_shipping": 1.35,
+          "complexity": 1.35,
+          "discussion": 0.0
+        }
+      ]
+    },
+    {
+      "login": "GauravBansal29",
+      "final_impact": 4.2,
+      "total_shipping": 4.89,
+      "total_reviews": 0,
+      "base_impact": 3.18,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44020,
+          "title": "feat: GoalLine Functionality for Retention Graph (closes #39228)",
+          "url": "https://github.com/PostHog/posthog/pull/44020",
+          "pr_shipping": 4.89,
+          "complexity": 4.68,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "charlescook-ph",
+      "final_impact": 4.06,
+      "total_shipping": 4.72,
+      "total_reviews": 0,
+      "base_impact": 3.07,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 2,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 48807,
+          "title": "fix(flags): Clear property value when switching to a date operator",
+          "url": "https://github.com/PostHog/posthog/pull/48807",
+          "pr_shipping": 2.48,
+          "complexity": 1.94,
+          "discussion": 0.54
+        },
+        {
+          "number": 48963,
+          "title": "fix(flags): Validate value on date operator switch instead of clearing",
+          "url": "https://github.com/PostHog/posthog/pull/48963",
+          "pr_shipping": 2.24,
+          "complexity": 1.66,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "igormq",
+      "final_impact": 3.1,
+      "total_shipping": 3.61,
+      "total_reviews": 0,
+      "base_impact": 2.35,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 45652,
+          "title": "feat(feature-flags): add posthog-server user agent for server-side SDK detection",
+          "url": "https://github.com/PostHog/posthog/pull/45652",
+          "pr_shipping": 3.61,
+          "complexity": 3.03,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "jeremylongshore",
+      "final_impact": 3.07,
+      "total_shipping": 3.57,
+      "total_reviews": 0,
+      "base_impact": 2.32,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 2,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44186,
+          "title": "fix(insights): Use immutable update for goal line changes",
+          "url": "https://github.com/PostHog/posthog/pull/44186",
+          "pr_shipping": 2.46,
+          "complexity": 2.46,
+          "discussion": 0.0
+        },
+        {
+          "number": 44185,
+          "title": "fix(flags): Reset schedule form date after creating scheduled change",
+          "url": "https://github.com/PostHog/posthog/pull/44185",
+          "pr_shipping": 1.11,
+          "complexity": 1.11,
+          "discussion": 0.0
+        }
+      ]
+    },
+    {
+      "login": "Nezz",
+      "final_impact": 2.89,
+      "total_shipping": 3.37,
+      "total_reviews": 0,
+      "base_impact": 2.19,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 46254,
+          "title": "fix: Braze template payload format",
+          "url": "https://github.com/PostHog/posthog/pull/46254",
+          "pr_shipping": 3.37,
+          "complexity": 3.16,
+          "discussion": 0.21
+        }
+      ]
+    },
+    {
+      "login": "JJCLane",
+      "final_impact": 2.79,
+      "total_shipping": 3.25,
+      "total_reviews": 0,
+      "base_impact": 2.11,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44392,
+          "title": "chore: use PHP short array syntax",
+          "url": "https://github.com/PostHog/posthog/pull/44392",
+          "pr_shipping": 3.25,
+          "complexity": 2.77,
+          "discussion": 0.48
+        }
+      ]
+    },
+    {
+      "login": "fivestarspicy",
+      "final_impact": 2.69,
+      "total_shipping": 3.13,
+      "total_reviews": 0,
+      "base_impact": 2.04,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 45649,
+          "title": "feat(error-tracking): add alert_destination_count to issues list view\u2026",
+          "url": "https://github.com/PostHog/posthog/pull/45649",
+          "pr_shipping": 3.13,
+          "complexity": 2.55,
+          "discussion": 0.58
+        }
+      ]
+    },
+    {
+      "login": "antlio",
+      "final_impact": 2.11,
+      "total_shipping": 2.45,
+      "total_reviews": 0,
+      "base_impact": 1.59,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 42817,
+          "title": "fix(max): make tools tooltip scrollable for long content",
+          "url": "https://github.com/PostHog/posthog/pull/42817",
+          "pr_shipping": 2.45,
+          "complexity": 1.66,
+          "discussion": 0.79
+        }
+      ]
+    },
+    {
+      "login": "carlosguso",
+      "final_impact": 1.87,
+      "total_shipping": 2.17,
+      "total_reviews": 0,
+      "base_impact": 1.41,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44028,
+          "title": "fix(trends): fix decimal point not changing the visualization inside trends",
+          "url": "https://github.com/PostHog/posthog/pull/44028",
+          "pr_shipping": 2.17,
+          "complexity": 2.17,
+          "discussion": 0.0
+        }
+      ]
+    },
+    {
+      "login": "annikaschmid",
+      "final_impact": 1.71,
+      "total_shipping": 1.99,
+      "total_reviews": 0,
+      "base_impact": 1.29,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 48760,
+          "title": "fix(insight-ai): use underscore in ai_product property value",
+          "url": "https://github.com/PostHog/posthog/pull/48760",
+          "pr_shipping": 1.99,
+          "complexity": 1.66,
+          "discussion": 0.33
+        }
+      ]
+    },
+    {
+      "login": "zachstence",
+      "final_impact": 1.64,
+      "total_shipping": 2.48,
+      "total_reviews": 0,
+      "base_impact": 1.61,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 43373,
+          "title": "chore: upgrade `cargo-dist` to v0.30.3",
+          "url": "https://github.com/PostHog/posthog/pull/43373",
+          "pr_shipping": 2.48,
+          "complexity": 2.06,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "darkLord19",
+      "final_impact": 1.62,
+      "total_shipping": 1.89,
+      "total_reviews": 0,
+      "base_impact": 1.23,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 45488,
+          "title": "fix: use correct command line option to set region in wizard",
+          "url": "https://github.com/PostHog/posthog/pull/45488",
+          "pr_shipping": 1.89,
+          "complexity": 1.35,
+          "discussion": 0.54
+        }
+      ]
+    },
+    {
+      "login": "kurekszymon",
+      "final_impact": 1.48,
+      "total_shipping": 2.23,
+      "total_reviews": 0,
+      "base_impact": 1.45,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 47227,
+          "title": "docs(react): use @posthog/react in product-analytics onboarding",
+          "url": "https://github.com/PostHog/posthog/pull/47227",
+          "pr_shipping": 2.23,
+          "complexity": 2.23,
+          "discussion": 0.0
+        }
+      ]
+    },
+    {
+      "login": "KaranPradhan266",
+      "final_impact": 1.44,
+      "total_shipping": 1.68,
+      "total_reviews": 0,
+      "base_impact": 1.09,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 43826,
+          "title": "fix(insights): show single name in legend",
+          "url": "https://github.com/PostHog/posthog/pull/43826",
+          "pr_shipping": 1.68,
+          "complexity": 1.35,
+          "discussion": 0.33
+        }
+      ]
+    },
+    {
+      "login": "will-marella",
+      "final_impact": 1.16,
+      "total_shipping": 1.35,
+      "total_reviews": 0,
+      "base_impact": 0.88,
+      "core_touch_ratio": 1.0,
+      "core_multiplier": 1.3,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 47992,
+          "title": "fix(web-analytics): left-align filter dropdown",
+          "url": "https://github.com/PostHog/posthog/pull/47992",
+          "pr_shipping": 1.35,
+          "complexity": 1.35,
+          "discussion": 0.0
+        }
+      ]
+    },
+    {
+      "login": "Classy-Bear",
+      "final_impact": 1.1,
+      "total_shipping": 1.66,
+      "total_reviews": 0,
+      "base_impact": 1.08,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 48262,
+          "title": "fix: error tracking config to use add method",
+          "url": "https://github.com/PostHog/posthog/pull/48262",
+          "pr_shipping": 1.66,
+          "complexity": 1.66,
+          "discussion": 0.0
+        }
+      ]
+    },
+    {
+      "login": "rnegron",
+      "final_impact": 1.1,
+      "total_shipping": 1.66,
+      "total_reviews": 0,
+      "base_impact": 1.08,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 48518,
+          "title": "docs: update postgres troubleshooting on local setup and rename example test file in copy",
+          "url": "https://github.com/PostHog/posthog/pull/48518",
+          "pr_shipping": 1.66,
+          "complexity": 1.66,
+          "discussion": 0.0
+        }
+      ]
+    },
+    {
+      "login": "caiquejjx",
+      "final_impact": 1.01,
+      "total_shipping": 1.52,
+      "total_reviews": 0,
+      "base_impact": 0.99,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44723,
+          "title": "feat(saved-insights): add sorting to name column in saved insights",
+          "url": "https://github.com/PostHog/posthog/pull/44723",
+          "pr_shipping": 1.52,
+          "complexity": 1.11,
+          "discussion": 0.42
+        }
+      ]
+    },
+    {
+      "login": "sayer122",
+      "final_impact": 0.87,
+      "total_shipping": 1.32,
+      "total_reviews": 0,
+      "base_impact": 0.86,
+      "core_touch_ratio": 0.0,
+      "core_multiplier": 1.0,
+      "active_weeks": 1,
+      "consistency_bonus": 1.017,
+      "pr_count": 1,
+      "review_count": 0,
+      "top_prs": [
+        {
+          "number": 44514,
+          "title": "feat(hobby): support OPT_OUT_CAPTURE env var override",
+          "url": "https://github.com/PostHog/posthog/pull/44514",
+          "pr_shipping": 1.32,
+          "complexity": 1.11,
+          "discussion": 0.21
+        }
+      ]
+    }
+  ]
+}
