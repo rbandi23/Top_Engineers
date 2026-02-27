@@ -255,6 +255,7 @@ def main() -> None:
 **Column definitions:**
 
 - **Shipping** — Sum of `log(1 + changed_files) + 0.6 × log(1 + lines_changed) + 0.3 × log(1 + comments + review_threads)` across all merged PRs by this engineer. Larger, more-discussed PRs score higher, but logarithmic scaling prevents mega-PRs from dominating.
+  - **Complexity (PR-level)** — Each PR's technical scope, calculated as `log(1 + changed_files) + 0.6 × log(1 + lines_changed)`. Captures files touched and lines modified. Higher complexity = more substantial changes.
 - **Reviews** — Sum of `complexity(reviewed_PR) × (1 + 0.05 × log(1 + comments_left))` for each PR reviewed. Reviewing complex code scores more; leaving substantive comments adds a small bonus. Self-reviews are excluded. Only the latest review per PR counts (deduplicated).
 - **Core Ratio** — Fraction of this engineer's code changes (by lines) that land in "core" directories (the smallest set of top-level dirs covering 80% of all repo activity). Range: 0% – 100%.
 - **Weeks Active** — Number of distinct calendar weeks (out of the last 13) with at least one merged PR or submitted review. Measures sustained contribution vs. one-off bursts.
